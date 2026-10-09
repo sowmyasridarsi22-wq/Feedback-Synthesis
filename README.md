@@ -3,8 +3,7 @@
 MERN-stack academic project for turning large volumes of user feedback into actionable product insights using Gemini.
 
 **Owner:** Darsi Sowmya Sri  
-**Roll No:** 24EG105Q36  
-**Section:** CSE-Q
+
 
 ## Stack
 - React + Vite + Tailwind CSS + Recharts
