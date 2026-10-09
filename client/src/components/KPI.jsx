@@ -1,0 +1,1 @@
+export default function KPI({label,value,sub}){return <div className="glass rounded-2xl p-5"><div className="text-sm text-slate-400">{label}</div><div className="text-3xl font-bold mt-2">{value}</div>{sub&&<div className="text-xs text-slate-500 mt-2">{sub}</div>}</div>}

@@ -1,0 +1,1001 @@
+feedback_id,feedback,date,rating,sentiment,product,category,source
+FB00001,The payment failed twice even though my bank account was charged.,2025-09-08,2,Negative,Checkout,Payment,Customer Support
+FB00002,The new search feature is excellent and makes finding products much easier.,2026-08-28,4,Positive,Website,Search,Email
+FB00003,Please add a dark mode. It would make the app easier to use at night.,2025-08-12,4,Positive,Mobile App,Feature Request,Customer Support
+FB00004,"As a customer, i am happy with the service overall.",2026-07-29,4,Positive,Service,General,Customer Support
+FB00005,"Recently, the instructions are confusing and I had trouble completing my order.",2026-04-05,2,Negative,Website,Usability,App Review
+FB00006,"The interface is clean, but the checkout process has too many steps.",2025-06-13,3,Neutral,Website,User Interface,Email
+FB00007,"In my experience, refund processing took much longer than expected.",2025-08-09,2,Negative,Orders,Refund,Survey
+FB00008,The payment failed twice even though my bank account was charged.,2025-04-10,3,Negative,Checkout,Payment,Survey
+FB00009,"As a customer, the app crashes whenever I open the notifications page.",2025-02-14,2,Negative,Mobile App,Technical Issue,Email
+FB00010,The instructions are confusing and I had trouble completing my order.,2025-03-22,3,Negative,Website,Usability,App Review
+FB00011,"As a customer, i would like an option to export my order history as a CSV file.",2026-08-15,5,Positive,Website,Feature Request,Customer Support
+FB00012,Customer support resolved my issue quickly and professionally.,2025-10-24,4,Positive,Customer Support,Support,Product Review
+FB00013,I cannot log in after changing my password.,2025-10-12,3,Negative,Account,Login,Email
+FB00014,"Overall, the app crashes whenever I open the notifications page.",2025-12-30,2,Negative,Mobile App,Technical Issue,Customer Support
+FB00015,"The interface is clean, but the checkout process has too many steps.",2026-09-16,3,Neutral,Website,User Interface,Customer Support
+FB00016,"Overall, the instructions are confusing and I had trouble completing my order.",2026-04-19,2,Negative,Website,Usability,Email
+FB00017,"As a customer, the interface is clean, but the checkout process has too many steps.",2025-08-13,3,Neutral,Website,User Interface,Survey
+FB00018,"Overall, please add a dark mode. It would make the app easier to use at night.",2025-11-20,4,Positive,Mobile App,Feature Request,Email
+FB00019,"The interface is clean, but the checkout process has too many steps.",2025-08-05,3,Neutral,Website,User Interface,App Review
+FB00020,"Overall, refund processing took much longer than expected.",2026-02-10,3,Negative,Orders,Refund,Email
+FB00021,"In my experience, the new search feature is excellent and makes finding products much easier.",2025-09-10,4,Positive,Website,Search,App Review
+FB00022,"In my experience, the instructions are confusing and I had trouble completing my order.",2026-08-21,3,Negative,Website,Usability,Email
+FB00023,"Overall, the app crashes whenever I open the notifications page.",2026-06-06,2,Negative,Mobile App,Technical Issue,Email
+FB00024,Customer support resolved my issue quickly and professionally.,2025-06-06,4,Positive,Customer Support,Support,Customer Support
+FB00025,"As a customer, please allow users to save products to a wishlist.",2026-01-30,4,Positive,Website,Feature Request,Email
+FB00026,"Recently, the support team answered my question, but the response took two days.",2026-06-26,3,Neutral,Customer Support,Support,Survey
+FB00027,The instructions are confusing and I had trouble completing my order.,2026-07-04,1,Negative,Website,Usability,Survey
+FB00028,Refund processing took much longer than expected.,2026-03-22,2,Negative,Orders,Refund,Customer Support
+FB00029,The delivery arrived earlier than expected and everything was packed well.,2026-05-28,5,Positive,Delivery,Delivery,Customer Support
+FB00030,I am happy with the service overall.,2026-06-04,5,Positive,Service,General,App Review
+FB00031,"Overall, the product quality is good for the price.",2025-06-15,5,Positive,Product,Product Quality,App Review
+FB00032,I am happy with the service overall.,2026-05-16,5,Positive,Service,General,Product Review
+FB00033,"In my experience, the payment failed twice even though my bank account was charged.",2025-09-03,2,Negative,Checkout,Payment,Product Review
+FB00034,"As a customer, i cannot log in after changing my password.",2025-03-29,1,Negative,Account,Login,Email
+FB00035,"As a customer, customer support resolved my issue quickly and professionally.",2025-05-12,4,Positive,Customer Support,Support,Email
+FB00036,"Overall, the instructions are confusing and I had trouble completing my order.",2026-06-25,2,Negative,Website,Usability,App Review
+FB00037,"Overall, please allow users to save products to a wishlist.",2025-11-16,4,Positive,Website,Feature Request,Email
+FB00038,"Recently, the app crashes whenever I open the notifications page.",2025-05-04,3,Negative,Mobile App,Technical Issue,Customer Support
+FB00039,I cannot log in after changing my password.,2025-01-22,2,Negative,Account,Login,App Review
+FB00040,"Overall, the instructions are confusing and I had trouble completing my order.",2025-01-08,2,Negative,Website,Usability,Product Review
+FB00041,"Overall, please add a dark mode. It would make the app easier to use at night.",2025-02-02,4,Positive,Mobile App,Feature Request,Survey
+FB00042,"As a customer, customer support resolved my issue quickly and professionally.",2025-10-13,4,Positive,Customer Support,Support,Email
+FB00043,"As a customer, the product quality is good for the price.",2026-08-08,4,Positive,Product,Product Quality,App Review
+FB00044,"Overall, the website occasionally becomes unresponsive during checkout.",2026-02-21,3,Negative,Website,Performance,Customer Support
+FB00045,The payment failed twice even though my bank account was charged.,2025-12-29,3,Negative,Checkout,Payment,Email
+FB00046,"Recently, please allow users to save products to a wishlist.",2025-04-11,4,Positive,Website,Feature Request,Product Review
+FB00047,"In my experience, prices are reasonable and the available discounts are useful.",2025-09-12,4,Positive,Website,Pricing,Customer Support
+FB00048,"As a customer, the product quality is good for the price.",2025-05-24,5,Positive,Product,Product Quality,Email
+FB00049,"In my experience, delivery was three days late and there was no useful tracking update.",2025-09-13,3,Negative,Delivery,Delivery,Product Review
+FB00050,"As a customer, the delivery arrived earlier than expected and everything was packed well.",2025-02-21,4,Positive,Delivery,Delivery,App Review
+FB00051,The app loads very slowly and sometimes freezes.,2025-06-20,2,Negative,Mobile App,Performance,Email
+FB00052,"Recently, the website occasionally becomes unresponsive during checkout.",2026-02-15,2,Negative,Website,Performance,Product Review
+FB00053,"Recently, delivery was three days late and there was no useful tracking update.",2026-02-04,1,Negative,Delivery,Delivery,Survey
+FB00054,"In my experience, the delivery arrived earlier than expected and everything was packed well.",2026-07-24,5,Positive,Delivery,Delivery,Email
+FB00055,"Overall, the new search feature is excellent and makes finding products much easier.",2025-08-11,5,Positive,Website,Search,Product Review
+FB00056,"As a customer, adding biometric login would make signing in much easier.",2025-11-18,4,Positive,Mobile App,Feature Request,Product Review
+FB00057,"As a customer, please add a dark mode. It would make the app easier to use at night.",2026-05-30,5,Positive,Mobile App,Feature Request,App Review
+FB00058,Delivery was three days late and there was no useful tracking update.,2025-07-10,1,Negative,Delivery,Delivery,Product Review
+FB00059,"The support team answered my question, but the response took two days.",2025-08-29,3,Neutral,Customer Support,Support,Email
+FB00060,"As a customer, the payment failed twice even though my bank account was charged.",2026-08-16,2,Negative,Checkout,Payment,App Review
+FB00061,"As a customer, please add a dark mode. It would make the app easier to use at night.",2026-03-06,4,Positive,Mobile App,Feature Request,App Review
+FB00062,"As a customer, adding biometric login would make signing in much easier.",2025-09-25,5,Positive,Mobile App,Feature Request,Customer Support
+FB00063,"Overall, refund processing took much longer than expected.",2026-02-10,2,Negative,Orders,Refund,Customer Support
+FB00064,"Recently, i would like an option to export my order history as a CSV file.",2025-03-16,5,Positive,Website,Feature Request,Product Review
+FB00065,"As a customer, the delivery arrived earlier than expected and everything was packed well.",2025-03-17,4,Positive,Delivery,Delivery,App Review
+FB00066,"As a customer, the product quality is good for the price.",2025-05-16,5,Positive,Product,Product Quality,Survey
+FB00067,"Overall, customer support resolved my issue quickly and professionally.",2025-10-19,5,Positive,Customer Support,Support,Customer Support
+FB00068,"As a customer, the delivery arrived earlier than expected and everything was packed well.",2026-09-19,5,Positive,Delivery,Delivery,App Review
+FB00069,"As a customer, the app loads very slowly and sometimes freezes.",2025-04-17,2,Negative,Mobile App,Performance,Customer Support
+FB00070,"The interface is clean, but the checkout process has too many steps.",2025-04-20,3,Neutral,Website,User Interface,App Review
+FB00071,"In my experience, the new search feature is excellent and makes finding products much easier.",2026-09-12,5,Positive,Website,Search,Customer Support
+FB00072,"Overall, refund processing took much longer than expected.",2026-06-02,2,Negative,Orders,Refund,Email
+FB00073,"The interface is clean, but the checkout process has too many steps.",2025-04-05,3,Neutral,Website,User Interface,Email
+FB00074,"The interface is clean, but the checkout process has too many steps.",2025-01-04,3,Neutral,Website,User Interface,Survey
+FB00075,"In my experience, the new search feature is excellent and makes finding products much easier.",2026-03-29,4,Positive,Website,Search,App Review
+FB00076,"As a customer, please allow users to save products to a wishlist.",2025-04-25,4,Positive,Website,Feature Request,Product Review
+FB00077,"As a customer, the new search feature is excellent and makes finding products much easier.",2026-01-14,4,Positive,Website,Search,App Review
+FB00078,"Overall, the instructions are confusing and I had trouble completing my order.",2025-05-11,3,Negative,Website,Usability,Product Review
+FB00079,"In my experience, i would like an option to export my order history as a CSV file.",2026-01-02,4,Positive,Website,Feature Request,Customer Support
+FB00080,I cannot log in after changing my password.,2026-07-28,2,Negative,Account,Login,Email
+FB00081,"Overall, the support team answered my question, but the response took two days.",2025-08-31,3,Neutral,Customer Support,Support,Customer Support
+FB00082,"Recently, delivery was three days late and there was no useful tracking update.",2025-07-03,1,Negative,Delivery,Delivery,Survey
+FB00083,"Overall, please allow users to save products to a wishlist.",2025-06-13,5,Positive,Website,Feature Request,Product Review
+FB00084,Prices are reasonable and the available discounts are useful.,2025-08-16,5,Positive,Website,Pricing,Customer Support
+FB00085,"In my experience, the delivery arrived earlier than expected and everything was packed well.",2025-08-22,5,Positive,Delivery,Delivery,Customer Support
+FB00086,"Overall, the app loads very slowly and sometimes freezes.",2025-12-03,3,Negative,Mobile App,Performance,Survey
+FB00087,"In my experience, customer support resolved my issue quickly and professionally.",2026-06-06,5,Positive,Customer Support,Support,Email
+FB00088,"In my experience, the instructions are confusing and I had trouble completing my order.",2025-04-29,1,Negative,Website,Usability,Survey
+FB00089,"As a customer, delivery was three days late and there was no useful tracking update.",2025-02-09,2,Negative,Delivery,Delivery,Product Review
+FB00090,"Recently, the support team answered my question, but the response took two days.",2025-12-20,3,Neutral,Customer Support,Support,Survey
+FB00091,"As a customer, please allow users to save products to a wishlist.",2026-01-30,4,Positive,Website,Feature Request,App Review
+FB00092,"In my experience, the product quality is good for the price.",2026-03-23,4,Positive,Product,Product Quality,Product Review
+FB00093,"As a customer, i am happy with the service overall.",2026-01-08,4,Positive,Service,General,Email
+FB00094,"In my experience, customer support resolved my issue quickly and professionally.",2025-05-08,5,Positive,Customer Support,Support,Survey
+FB00095,"In my experience, i am happy with the service overall.",2025-12-01,5,Positive,Service,General,Email
+FB00096,"As a customer, i would like an option to export my order history as a CSV file.",2025-07-16,4,Positive,Website,Feature Request,Email
+FB00097,"Overall, prices are reasonable and the available discounts are useful.",2026-02-20,5,Positive,Website,Pricing,App Review
+FB00098,"In my experience, the app loads very slowly and sometimes freezes.",2025-08-04,2,Negative,Mobile App,Performance,Email
+FB00099,"As a customer, adding biometric login would make signing in much easier.",2026-04-22,5,Positive,Mobile App,Feature Request,Email
+FB00100,"Overall, the delivery arrived earlier than expected and everything was packed well.",2025-06-23,5,Positive,Delivery,Delivery,Product Review
+FB00101,"As a customer, i would like an option to export my order history as a CSV file.",2025-04-06,5,Positive,Website,Feature Request,Customer Support
+FB00102,"Overall, i would like an option to export my order history as a CSV file.",2025-05-31,4,Positive,Website,Feature Request,Product Review
+FB00103,"Overall, please add a dark mode. It would make the app easier to use at night.",2026-09-18,5,Positive,Mobile App,Feature Request,Product Review
+FB00104,"Recently, the delivery arrived earlier than expected and everything was packed well.",2026-01-29,4,Positive,Delivery,Delivery,Email
+FB00105,"Overall, prices are reasonable and the available discounts are useful.",2025-01-06,4,Positive,Website,Pricing,Product Review
+FB00106,"Overall, please allow users to save products to a wishlist.",2026-06-15,4,Positive,Website,Feature Request,Email
+FB00107,"As a customer, please add a dark mode. It would make the app easier to use at night.",2025-05-05,4,Positive,Mobile App,Feature Request,Email
+FB00108,"Recently, the new search feature is excellent and makes finding products much easier.",2026-03-30,5,Positive,Website,Search,App Review
+FB00109,"Recently, i am happy with the service overall.",2025-06-12,5,Positive,Service,General,Email
+FB00110,"In my experience, the delivery arrived earlier than expected and everything was packed well.",2025-10-11,4,Positive,Delivery,Delivery,App Review
+FB00111,"Overall, the website occasionally becomes unresponsive during checkout.",2026-03-27,2,Negative,Website,Performance,Product Review
+FB00112,"Overall, i would like an option to export my order history as a CSV file.",2025-12-10,5,Positive,Website,Feature Request,Survey
+FB00113,The instructions are confusing and I had trouble completing my order.,2025-06-04,2,Negative,Website,Usability,Customer Support
+FB00114,"Overall, prices are reasonable and the available discounts are useful.",2025-03-07,4,Positive,Website,Pricing,Email
+FB00115,"In my experience, please allow users to save products to a wishlist.",2026-03-02,5,Positive,Website,Feature Request,Product Review
+FB00116,"Recently, the product quality is good for the price.",2026-08-22,5,Positive,Product,Product Quality,Product Review
+FB00117,"Recently, adding biometric login would make signing in much easier.",2025-01-07,5,Positive,Mobile App,Feature Request,Survey
+FB00118,"Recently, i would like an option to export my order history as a CSV file.",2026-07-06,5,Positive,Website,Feature Request,App Review
+FB00119,"Overall, the support team answered my question, but the response took two days.",2026-05-15,3,Neutral,Customer Support,Support,Customer Support
+FB00120,"Recently, the interface is clean, but the checkout process has too many steps.",2026-05-13,3,Neutral,Website,User Interface,Product Review
+FB00121,"In my experience, prices are reasonable and the available discounts are useful.",2025-06-19,5,Positive,Website,Pricing,Email
+FB00122,"As a customer, the new search feature is excellent and makes finding products much easier.",2026-02-08,4,Positive,Website,Search,App Review
+FB00123,Adding biometric login would make signing in much easier.,2026-03-15,4,Positive,Mobile App,Feature Request,Customer Support
+FB00124,"Overall, the delivery arrived earlier than expected and everything was packed well.",2025-09-24,4,Positive,Delivery,Delivery,Email
+FB00125,"Overall, refund processing took much longer than expected.",2025-12-01,3,Negative,Orders,Refund,Survey
+FB00126,"In my experience, prices are reasonable and the available discounts are useful.",2025-09-16,5,Positive,Website,Pricing,Product Review
+FB00127,The website occasionally becomes unresponsive during checkout.,2025-12-25,1,Negative,Website,Performance,Customer Support
+FB00128,Customer support resolved my issue quickly and professionally.,2025-09-11,4,Positive,Customer Support,Support,Customer Support
+FB00129,"As a customer, the app loads very slowly and sometimes freezes.",2025-09-02,2,Negative,Mobile App,Performance,Customer Support
+FB00130,The website occasionally becomes unresponsive during checkout.,2026-04-22,2,Negative,Website,Performance,Survey
+FB00131,"Overall, the app crashes whenever I open the notifications page.",2025-06-17,1,Negative,Mobile App,Technical Issue,Survey
+FB00132,"As a customer, the payment failed twice even though my bank account was charged.",2025-11-16,1,Negative,Checkout,Payment,App Review
+FB00133,"Recently, prices are reasonable and the available discounts are useful.",2025-03-19,4,Positive,Website,Pricing,App Review
+FB00134,I cannot log in after changing my password.,2026-09-07,2,Negative,Account,Login,Product Review
+FB00135,Adding biometric login would make signing in much easier.,2026-06-30,5,Positive,Mobile App,Feature Request,Email
+FB00136,The app crashes whenever I open the notifications page.,2025-01-13,2,Negative,Mobile App,Technical Issue,Email
+FB00137,The website occasionally becomes unresponsive during checkout.,2026-01-06,3,Negative,Website,Performance,Email
+FB00138,"Recently, the new search feature is excellent and makes finding products much easier.",2026-06-19,4,Positive,Website,Search,Survey
+FB00139,"As a customer, the support team answered my question, but the response took two days.",2026-05-11,3,Neutral,Customer Support,Support,Email
+FB00140,"As a customer, please allow users to save products to a wishlist.",2025-11-27,5,Positive,Website,Feature Request,Customer Support
+FB00141,"In my experience, customer support resolved my issue quickly and professionally.",2025-09-07,5,Positive,Customer Support,Support,Email
+FB00142,"As a customer, adding biometric login would make signing in much easier.",2025-12-11,5,Positive,Mobile App,Feature Request,Product Review
+FB00143,"In my experience, the website occasionally becomes unresponsive during checkout.",2026-05-15,2,Negative,Website,Performance,Customer Support
+FB00144,"In my experience, the app crashes whenever I open the notifications page.",2025-10-14,2,Negative,Mobile App,Technical Issue,App Review
+FB00145,"As a customer, the interface is clean, but the checkout process has too many steps.",2025-01-11,3,Neutral,Website,User Interface,App Review
+FB00146,The product quality is good for the price.,2026-02-21,4,Positive,Product,Product Quality,Email
+FB00147,"Overall, the instructions are confusing and I had trouble completing my order.",2026-05-18,3,Negative,Website,Usability,Email
+FB00148,The app loads very slowly and sometimes freezes.,2025-08-15,2,Negative,Mobile App,Performance,Email
+FB00149,"In my experience, i cannot log in after changing my password.",2026-04-30,2,Negative,Account,Login,App Review
+FB00150,"In my experience, i am happy with the service overall.",2026-07-18,5,Positive,Service,General,Survey
+FB00151,"Recently, the app crashes whenever I open the notifications page.",2025-11-10,2,Negative,Mobile App,Technical Issue,Survey
+FB00152,I cannot log in after changing my password.,2025-11-20,2,Negative,Account,Login,Product Review
+FB00153,"Overall, the instructions are confusing and I had trouble completing my order.",2025-08-10,2,Negative,Website,Usability,Email
+FB00154,"As a customer, the interface is clean, but the checkout process has too many steps.",2026-06-22,3,Neutral,Website,User Interface,App Review
+FB00155,I would like an option to export my order history as a CSV file.,2025-10-31,4,Positive,Website,Feature Request,Customer Support
+FB00156,"Overall, the app crashes whenever I open the notifications page.",2025-01-15,2,Negative,Mobile App,Technical Issue,App Review
+FB00157,"In my experience, the new search feature is excellent and makes finding products much easier.",2025-02-25,4,Positive,Website,Search,App Review
+FB00158,"Overall, i would like an option to export my order history as a CSV file.",2025-04-16,5,Positive,Website,Feature Request,Product Review
+FB00159,"In my experience, adding biometric login would make signing in much easier.",2026-05-06,5,Positive,Mobile App,Feature Request,Email
+FB00160,"Overall, refund processing took much longer than expected.",2025-09-16,1,Negative,Orders,Refund,Email
+FB00161,The payment failed twice even though my bank account was charged.,2026-05-19,3,Negative,Checkout,Payment,Product Review
+FB00162,Adding biometric login would make signing in much easier.,2025-06-02,4,Positive,Mobile App,Feature Request,App Review
+FB00163,I would like an option to export my order history as a CSV file.,2025-05-02,4,Positive,Website,Feature Request,App Review
+FB00164,"As a customer, please allow users to save products to a wishlist.",2026-06-20,4,Positive,Website,Feature Request,Email
+FB00165,"Recently, the delivery arrived earlier than expected and everything was packed well.",2026-08-26,5,Positive,Delivery,Delivery,Email
+FB00166,"As a customer, i would like an option to export my order history as a CSV file.",2026-09-17,4,Positive,Website,Feature Request,Product Review
+FB00167,"Overall, the product quality is good for the price.",2025-03-25,5,Positive,Product,Product Quality,Customer Support
+FB00168,"Overall, i cannot log in after changing my password.",2025-06-10,1,Negative,Account,Login,Product Review
+FB00169,"Recently, please allow users to save products to a wishlist.",2025-10-26,5,Positive,Website,Feature Request,Product Review
+FB00170,"In my experience, i cannot log in after changing my password.",2026-04-10,2,Negative,Account,Login,Product Review
+FB00171,"In my experience, i cannot log in after changing my password.",2026-03-12,2,Negative,Account,Login,Product Review
+FB00172,"Overall, the instructions are confusing and I had trouble completing my order.",2025-09-30,2,Negative,Website,Usability,Customer Support
+FB00173,Customer support resolved my issue quickly and professionally.,2025-11-11,4,Positive,Customer Support,Support,App Review
+FB00174,"In my experience, adding biometric login would make signing in much easier.",2025-05-08,5,Positive,Mobile App,Feature Request,Email
+FB00175,"Recently, i would like an option to export my order history as a CSV file.",2026-05-28,5,Positive,Website,Feature Request,App Review
+FB00176,"Recently, the website occasionally becomes unresponsive during checkout.",2026-09-05,1,Negative,Website,Performance,Product Review
+FB00177,"In my experience, please allow users to save products to a wishlist.",2025-01-27,5,Positive,Website,Feature Request,Product Review
+FB00178,"As a customer, i cannot log in after changing my password.",2025-10-03,1,Negative,Account,Login,App Review
+FB00179,"Overall, please add a dark mode. It would make the app easier to use at night.",2026-06-16,5,Positive,Mobile App,Feature Request,Email
+FB00180,"Overall, the interface is clean, but the checkout process has too many steps.",2026-08-23,3,Neutral,Website,User Interface,Email
+FB00181,The website occasionally becomes unresponsive during checkout.,2025-12-23,3,Negative,Website,Performance,Email
+FB00182,"In my experience, refund processing took much longer than expected.",2025-06-14,1,Negative,Orders,Refund,Survey
+FB00183,"Recently, please allow users to save products to a wishlist.",2026-02-15,5,Positive,Website,Feature Request,App Review
+FB00184,"Recently, please add a dark mode. It would make the app easier to use at night.",2025-11-19,4,Positive,Mobile App,Feature Request,Survey
+FB00185,Refund processing took much longer than expected.,2026-06-11,3,Negative,Orders,Refund,Product Review
+FB00186,"Recently, the instructions are confusing and I had trouble completing my order.",2025-02-25,3,Negative,Website,Usability,Customer Support
+FB00187,"In my experience, i am happy with the service overall.",2026-10-03,5,Positive,Service,General,Email
+FB00188,"Overall, please add a dark mode. It would make the app easier to use at night.",2026-07-17,5,Positive,Mobile App,Feature Request,Customer Support
+FB00189,"Recently, i would like an option to export my order history as a CSV file.",2025-05-05,5,Positive,Website,Feature Request,Product Review
+FB00190,"Overall, the support team answered my question, but the response took two days.",2025-06-12,3,Neutral,Customer Support,Support,Survey
+FB00191,The instructions are confusing and I had trouble completing my order.,2025-04-06,3,Negative,Website,Usability,Customer Support
+FB00192,"Recently, the payment failed twice even though my bank account was charged.",2025-06-07,1,Negative,Checkout,Payment,Email
+FB00193,"As a customer, i would like an option to export my order history as a CSV file.",2026-03-02,5,Positive,Website,Feature Request,Email
+FB00194,"Overall, the website occasionally becomes unresponsive during checkout.",2026-07-19,3,Negative,Website,Performance,Customer Support
+FB00195,"Overall, prices are reasonable and the available discounts are useful.",2025-03-13,4,Positive,Website,Pricing,Survey
+FB00196,"In my experience, please allow users to save products to a wishlist.",2025-01-03,5,Positive,Website,Feature Request,Survey
+FB00197,"As a customer, i would like an option to export my order history as a CSV file.",2025-06-02,5,Positive,Website,Feature Request,Email
+FB00198,"Recently, the instructions are confusing and I had trouble completing my order.",2025-12-07,2,Negative,Website,Usability,App Review
+FB00199,"Recently, the instructions are confusing and I had trouble completing my order.",2025-11-26,3,Negative,Website,Usability,Customer Support
+FB00200,"As a customer, i cannot log in after changing my password.",2025-08-28,3,Negative,Account,Login,Email
+FB00201,"In my experience, please add a dark mode. It would make the app easier to use at night.",2026-01-26,5,Positive,Mobile App,Feature Request,Email
+FB00202,"Recently, the new search feature is excellent and makes finding products much easier.",2025-05-10,4,Positive,Website,Search,App Review
+FB00203,"In my experience, adding biometric login would make signing in much easier.",2026-03-27,4,Positive,Mobile App,Feature Request,Product Review
+FB00204,"Recently, i am happy with the service overall.",2025-05-28,4,Positive,Service,General,Email
+FB00205,The new search feature is excellent and makes finding products much easier.,2025-09-29,5,Positive,Website,Search,Survey
+FB00206,"Recently, the support team answered my question, but the response took two days.",2025-03-24,3,Neutral,Customer Support,Support,Survey
+FB00207,"Recently, the instructions are confusing and I had trouble completing my order.",2026-05-15,2,Negative,Website,Usability,App Review
+FB00208,"As a customer, please add a dark mode. It would make the app easier to use at night.",2025-08-29,4,Positive,Mobile App,Feature Request,Survey
+FB00209,I cannot log in after changing my password.,2025-04-11,3,Negative,Account,Login,Product Review
+FB00210,"Overall, the delivery arrived earlier than expected and everything was packed well.",2025-01-30,5,Positive,Delivery,Delivery,Product Review
+FB00211,Refund processing took much longer than expected.,2026-01-03,2,Negative,Orders,Refund,Survey
+FB00212,"Overall, please allow users to save products to a wishlist.",2026-06-28,4,Positive,Website,Feature Request,Email
+FB00213,"Overall, adding biometric login would make signing in much easier.",2025-06-29,4,Positive,Mobile App,Feature Request,Product Review
+FB00214,"Recently, the support team answered my question, but the response took two days.",2026-09-27,3,Neutral,Customer Support,Support,Customer Support
+FB00215,"As a customer, the website occasionally becomes unresponsive during checkout.",2025-08-26,2,Negative,Website,Performance,Email
+FB00216,"Recently, the interface is clean, but the checkout process has too many steps.",2025-09-19,3,Neutral,Website,User Interface,Product Review
+FB00217,"In my experience, the delivery arrived earlier than expected and everything was packed well.",2025-03-17,4,Positive,Delivery,Delivery,Email
+FB00218,"As a customer, the app crashes whenever I open the notifications page.",2026-03-11,2,Negative,Mobile App,Technical Issue,Survey
+FB00219,"In my experience, the delivery arrived earlier than expected and everything was packed well.",2026-01-29,4,Positive,Delivery,Delivery,Email
+FB00220,"Overall, the payment failed twice even though my bank account was charged.",2026-08-09,3,Negative,Checkout,Payment,Survey
+FB00221,"In my experience, adding biometric login would make signing in much easier.",2025-01-23,5,Positive,Mobile App,Feature Request,Email
+FB00222,"The interface is clean, but the checkout process has too many steps.",2026-08-03,3,Neutral,Website,User Interface,Product Review
+FB00223,"Recently, the support team answered my question, but the response took two days.",2025-10-21,3,Neutral,Customer Support,Support,Customer Support
+FB00224,"In my experience, the support team answered my question, but the response took two days.",2025-08-13,3,Neutral,Customer Support,Support,Customer Support
+FB00225,"In my experience, the support team answered my question, but the response took two days.",2025-05-21,3,Neutral,Customer Support,Support,Product Review
+FB00226,"In my experience, please add a dark mode. It would make the app easier to use at night.",2025-02-04,5,Positive,Mobile App,Feature Request,App Review
+FB00227,"Overall, the app crashes whenever I open the notifications page.",2025-10-30,1,Negative,Mobile App,Technical Issue,Survey
+FB00228,"Overall, please allow users to save products to a wishlist.",2025-05-16,4,Positive,Website,Feature Request,App Review
+FB00229,"As a customer, the app crashes whenever I open the notifications page.",2025-06-18,2,Negative,Mobile App,Technical Issue,Survey
+FB00230,"In my experience, the website occasionally becomes unresponsive during checkout.",2025-04-28,2,Negative,Website,Performance,Email
+FB00231,"Overall, customer support resolved my issue quickly and professionally.",2026-02-11,4,Positive,Customer Support,Support,App Review
+FB00232,The app crashes whenever I open the notifications page.,2025-01-15,3,Negative,Mobile App,Technical Issue,Survey
+FB00233,The instructions are confusing and I had trouble completing my order.,2026-01-13,3,Negative,Website,Usability,Survey
+FB00234,"Recently, adding biometric login would make signing in much easier.",2025-04-21,5,Positive,Mobile App,Feature Request,Customer Support
+FB00235,The website occasionally becomes unresponsive during checkout.,2026-09-17,2,Negative,Website,Performance,Customer Support
+FB00236,"Recently, customer support resolved my issue quickly and professionally.",2026-02-23,5,Positive,Customer Support,Support,Product Review
+FB00237,The new search feature is excellent and makes finding products much easier.,2025-11-08,4,Positive,Website,Search,Email
+FB00238,The payment failed twice even though my bank account was charged.,2026-07-05,2,Negative,Checkout,Payment,Customer Support
+FB00239,"Recently, prices are reasonable and the available discounts are useful.",2026-07-08,5,Positive,Website,Pricing,Email
+FB00240,"Overall, adding biometric login would make signing in much easier.",2025-04-12,5,Positive,Mobile App,Feature Request,Email
+FB00241,"Recently, the support team answered my question, but the response took two days.",2025-10-14,3,Neutral,Customer Support,Support,Product Review
+FB00242,"Overall, the app crashes whenever I open the notifications page.",2026-04-01,3,Negative,Mobile App,Technical Issue,Customer Support
+FB00243,The app crashes whenever I open the notifications page.,2026-07-12,2,Negative,Mobile App,Technical Issue,Survey
+FB00244,"Recently, please add a dark mode. It would make the app easier to use at night.",2025-07-14,5,Positive,Mobile App,Feature Request,Product Review
+FB00245,The delivery arrived earlier than expected and everything was packed well.,2026-09-04,4,Positive,Delivery,Delivery,Product Review
+FB00246,"In my experience, please add a dark mode. It would make the app easier to use at night.",2025-05-09,4,Positive,Mobile App,Feature Request,App Review
+FB00247,The product quality is good for the price.,2026-08-24,4,Positive,Product,Product Quality,Customer Support
+FB00248,"In my experience, i cannot log in after changing my password.",2026-09-03,2,Negative,Account,Login,Product Review
+FB00249,"Overall, the interface is clean, but the checkout process has too many steps.",2025-05-14,3,Neutral,Website,User Interface,App Review
+FB00250,"Overall, the interface is clean, but the checkout process has too many steps.",2025-04-23,3,Neutral,Website,User Interface,Product Review
+FB00251,The new search feature is excellent and makes finding products much easier.,2025-09-01,5,Positive,Website,Search,App Review
+FB00252,Refund processing took much longer than expected.,2025-09-29,2,Negative,Orders,Refund,Product Review
+FB00253,"Recently, the new search feature is excellent and makes finding products much easier.",2025-03-07,4,Positive,Website,Search,Email
+FB00254,"In my experience, the delivery arrived earlier than expected and everything was packed well.",2026-04-08,4,Positive,Delivery,Delivery,App Review
+FB00255,"As a customer, i cannot log in after changing my password.",2026-06-18,1,Negative,Account,Login,Survey
+FB00256,The delivery arrived earlier than expected and everything was packed well.,2026-05-06,4,Positive,Delivery,Delivery,Email
+FB00257,Please allow users to save products to a wishlist.,2026-03-31,5,Positive,Website,Feature Request,Product Review
+FB00258,"In my experience, customer support resolved my issue quickly and professionally.",2025-03-09,4,Positive,Customer Support,Support,Customer Support
+FB00259,"As a customer, the interface is clean, but the checkout process has too many steps.",2026-08-23,3,Neutral,Website,User Interface,App Review
+FB00260,"Recently, refund processing took much longer than expected.",2026-04-10,2,Negative,Orders,Refund,App Review
+FB00261,"Recently, the support team answered my question, but the response took two days.",2025-04-12,3,Neutral,Customer Support,Support,Product Review
+FB00262,"Overall, the instructions are confusing and I had trouble completing my order.",2026-04-08,3,Negative,Website,Usability,Customer Support
+FB00263,"In my experience, please allow users to save products to a wishlist.",2026-02-13,5,Positive,Website,Feature Request,Email
+FB00264,"In my experience, the payment failed twice even though my bank account was charged.",2025-11-17,3,Negative,Checkout,Payment,Survey
+FB00265,"Overall, the app crashes whenever I open the notifications page.",2025-03-10,3,Negative,Mobile App,Technical Issue,Product Review
+FB00266,Customer support resolved my issue quickly and professionally.,2025-04-09,5,Positive,Customer Support,Support,Survey
+FB00267,"As a customer, the new search feature is excellent and makes finding products much easier.",2026-08-24,4,Positive,Website,Search,App Review
+FB00268,"In my experience, the instructions are confusing and I had trouble completing my order.",2026-02-25,1,Negative,Website,Usability,Survey
+FB00269,Please allow users to save products to a wishlist.,2026-09-07,5,Positive,Website,Feature Request,Survey
+FB00270,The app crashes whenever I open the notifications page.,2025-06-08,2,Negative,Mobile App,Technical Issue,Email
+FB00271,I cannot log in after changing my password.,2026-07-24,2,Negative,Account,Login,Survey
+FB00272,"In my experience, the payment failed twice even though my bank account was charged.",2026-03-16,2,Negative,Checkout,Payment,App Review
+FB00273,"As a customer, the support team answered my question, but the response took two days.",2026-07-25,3,Neutral,Customer Support,Support,Product Review
+FB00274,"In my experience, the support team answered my question, but the response took two days.",2025-01-30,3,Neutral,Customer Support,Support,Customer Support
+FB00275,"In my experience, the interface is clean, but the checkout process has too many steps.",2025-12-14,3,Neutral,Website,User Interface,Survey
+FB00276,"Overall, the app loads very slowly and sometimes freezes.",2026-08-03,2,Negative,Mobile App,Performance,Email
+FB00277,"Overall, customer support resolved my issue quickly and professionally.",2025-04-04,4,Positive,Customer Support,Support,App Review
+FB00278,"Recently, the product quality is good for the price.",2026-04-10,5,Positive,Product,Product Quality,Survey
+FB00279,"In my experience, delivery was three days late and there was no useful tracking update.",2025-11-29,2,Negative,Delivery,Delivery,App Review
+FB00280,"The support team answered my question, but the response took two days.",2025-02-23,3,Neutral,Customer Support,Support,Customer Support
+FB00281,"As a customer, delivery was three days late and there was no useful tracking update.",2025-03-25,1,Negative,Delivery,Delivery,Survey
+FB00282,"Recently, the delivery arrived earlier than expected and everything was packed well.",2026-09-14,5,Positive,Delivery,Delivery,Email
+FB00283,"In my experience, please allow users to save products to a wishlist.",2026-06-09,4,Positive,Website,Feature Request,Product Review
+FB00284,"Recently, the app crashes whenever I open the notifications page.",2025-10-18,1,Negative,Mobile App,Technical Issue,App Review
+FB00285,"As a customer, the website occasionally becomes unresponsive during checkout.",2025-02-16,2,Negative,Website,Performance,Customer Support
+FB00286,"As a customer, prices are reasonable and the available discounts are useful.",2025-01-08,4,Positive,Website,Pricing,Customer Support
+FB00287,"Overall, i would like an option to export my order history as a CSV file.",2025-09-19,4,Positive,Website,Feature Request,Survey
+FB00288,Refund processing took much longer than expected.,2026-05-25,1,Negative,Orders,Refund,Email
+FB00289,"Overall, delivery was three days late and there was no useful tracking update.",2026-06-30,3,Negative,Delivery,Delivery,Customer Support
+FB00290,"As a customer, i am happy with the service overall.",2025-03-15,5,Positive,Service,General,Email
+FB00291,"Recently, please add a dark mode. It would make the app easier to use at night.",2026-04-16,4,Positive,Mobile App,Feature Request,Product Review
+FB00292,"As a customer, refund processing took much longer than expected.",2026-08-11,3,Negative,Orders,Refund,Email
+FB00293,"In my experience, please allow users to save products to a wishlist.",2026-02-19,4,Positive,Website,Feature Request,Product Review
+FB00294,"Overall, refund processing took much longer than expected.",2026-01-06,3,Negative,Orders,Refund,Product Review
+FB00295,Please allow users to save products to a wishlist.,2026-03-23,4,Positive,Website,Feature Request,App Review
+FB00296,"As a customer, prices are reasonable and the available discounts are useful.",2026-02-10,4,Positive,Website,Pricing,Survey
+FB00297,"Overall, refund processing took much longer than expected.",2025-06-22,2,Negative,Orders,Refund,Product Review
+FB00298,I am happy with the service overall.,2025-12-24,4,Positive,Service,General,Survey
+FB00299,"Overall, the new search feature is excellent and makes finding products much easier.",2025-05-30,4,Positive,Website,Search,Survey
+FB00300,"Overall, the product quality is good for the price.",2025-03-19,4,Positive,Product,Product Quality,Customer Support
+FB00301,"Recently, the website occasionally becomes unresponsive during checkout.",2026-08-02,3,Negative,Website,Performance,App Review
+FB00302,"In my experience, refund processing took much longer than expected.",2026-03-27,2,Negative,Orders,Refund,Product Review
+FB00303,"Recently, the website occasionally becomes unresponsive during checkout.",2025-10-09,2,Negative,Website,Performance,App Review
+FB00304,"In my experience, please add a dark mode. It would make the app easier to use at night.",2025-11-14,4,Positive,Mobile App,Feature Request,Email
+FB00305,The delivery arrived earlier than expected and everything was packed well.,2026-01-13,4,Positive,Delivery,Delivery,Survey
+FB00306,Customer support resolved my issue quickly and professionally.,2026-04-19,5,Positive,Customer Support,Support,App Review
+FB00307,The instructions are confusing and I had trouble completing my order.,2026-08-09,3,Negative,Website,Usability,Customer Support
+FB00308,"As a customer, refund processing took much longer than expected.",2026-05-29,3,Negative,Orders,Refund,Customer Support
+FB00309,"Recently, please add a dark mode. It would make the app easier to use at night.",2025-12-18,4,Positive,Mobile App,Feature Request,Product Review
+FB00310,"Overall, i am happy with the service overall.",2025-09-11,4,Positive,Service,General,Email
+FB00311,"As a customer, the delivery arrived earlier than expected and everything was packed well.",2026-01-08,4,Positive,Delivery,Delivery,Survey
+FB00312,"Recently, i would like an option to export my order history as a CSV file.",2025-12-13,5,Positive,Website,Feature Request,App Review
+FB00313,"In my experience, please add a dark mode. It would make the app easier to use at night.",2025-12-04,4,Positive,Mobile App,Feature Request,Product Review
+FB00314,"Recently, the instructions are confusing and I had trouble completing my order.",2025-09-16,2,Negative,Website,Usability,App Review
+FB00315,"In my experience, the new search feature is excellent and makes finding products much easier.",2026-08-20,4,Positive,Website,Search,Customer Support
+FB00316,"In my experience, the app crashes whenever I open the notifications page.",2025-05-13,3,Negative,Mobile App,Technical Issue,App Review
+FB00317,"In my experience, customer support resolved my issue quickly and professionally.",2025-12-03,5,Positive,Customer Support,Support,Customer Support
+FB00318,I am happy with the service overall.,2026-06-05,5,Positive,Service,General,Survey
+FB00319,"In my experience, the app loads very slowly and sometimes freezes.",2025-07-04,2,Negative,Mobile App,Performance,Customer Support
+FB00320,"Recently, refund processing took much longer than expected.",2025-08-20,2,Negative,Orders,Refund,Customer Support
+FB00321,The new search feature is excellent and makes finding products much easier.,2025-04-14,5,Positive,Website,Search,App Review
+FB00322,"As a customer, the instructions are confusing and I had trouble completing my order.",2025-12-11,1,Negative,Website,Usability,App Review
+FB00323,"As a customer, the new search feature is excellent and makes finding products much easier.",2025-06-07,5,Positive,Website,Search,Customer Support
+FB00324,"As a customer, delivery was three days late and there was no useful tracking update.",2026-03-25,2,Negative,Delivery,Delivery,Product Review
+FB00325,"In my experience, please allow users to save products to a wishlist.",2026-03-31,4,Positive,Website,Feature Request,App Review
+FB00326,"Recently, i would like an option to export my order history as a CSV file.",2026-07-01,4,Positive,Website,Feature Request,Customer Support
+FB00327,"Recently, i would like an option to export my order history as a CSV file.",2026-01-12,4,Positive,Website,Feature Request,App Review
+FB00328,"Recently, the delivery arrived earlier than expected and everything was packed well.",2026-01-27,5,Positive,Delivery,Delivery,App Review
+FB00329,"Recently, i am happy with the service overall.",2025-07-24,4,Positive,Service,General,App Review
+FB00330,"In my experience, the new search feature is excellent and makes finding products much easier.",2026-05-08,4,Positive,Website,Search,Survey
+FB00331,The instructions are confusing and I had trouble completing my order.,2025-10-19,1,Negative,Website,Usability,Product Review
+FB00332,"In my experience, delivery was three days late and there was no useful tracking update.",2026-06-10,3,Negative,Delivery,Delivery,Customer Support
+FB00333,Please allow users to save products to a wishlist.,2026-04-07,4,Positive,Website,Feature Request,Survey
+FB00334,"Recently, the app loads very slowly and sometimes freezes.",2026-02-10,1,Negative,Mobile App,Performance,App Review
+FB00335,"Overall, the app crashes whenever I open the notifications page.",2025-03-25,3,Negative,Mobile App,Technical Issue,Survey
+FB00336,I cannot log in after changing my password.,2025-04-12,2,Negative,Account,Login,Survey
+FB00337,"Overall, the new search feature is excellent and makes finding products much easier.",2025-10-21,4,Positive,Website,Search,Email
+FB00338,"Recently, the new search feature is excellent and makes finding products much easier.",2026-09-23,5,Positive,Website,Search,Product Review
+FB00339,Customer support resolved my issue quickly and professionally.,2025-08-09,5,Positive,Customer Support,Support,Customer Support
+FB00340,"As a customer, the instructions are confusing and I had trouble completing my order.",2025-04-24,3,Negative,Website,Usability,Survey
+FB00341,"In my experience, i cannot log in after changing my password.",2025-02-18,1,Negative,Account,Login,Customer Support
+FB00342,"As a customer, please allow users to save products to a wishlist.",2025-03-06,5,Positive,Website,Feature Request,Product Review
+FB00343,"As a customer, the website occasionally becomes unresponsive during checkout.",2026-06-12,1,Negative,Website,Performance,App Review
+FB00344,"Overall, i cannot log in after changing my password.",2026-03-16,2,Negative,Account,Login,Product Review
+FB00345,"In my experience, the support team answered my question, but the response took two days.",2025-09-04,3,Neutral,Customer Support,Support,App Review
+FB00346,"Overall, please allow users to save products to a wishlist.",2026-06-21,4,Positive,Website,Feature Request,Survey
+FB00347,"As a customer, customer support resolved my issue quickly and professionally.",2026-02-04,4,Positive,Customer Support,Support,Email
+FB00348,"Recently, please add a dark mode. It would make the app easier to use at night.",2025-09-17,5,Positive,Mobile App,Feature Request,Product Review
+FB00349,The app crashes whenever I open the notifications page.,2025-09-04,2,Negative,Mobile App,Technical Issue,Product Review
+FB00350,"In my experience, adding biometric login would make signing in much easier.",2025-02-15,4,Positive,Mobile App,Feature Request,Survey
+FB00351,"In my experience, the instructions are confusing and I had trouble completing my order.",2026-04-21,2,Negative,Website,Usability,Email
+FB00352,"Overall, delivery was three days late and there was no useful tracking update.",2026-04-14,1,Negative,Delivery,Delivery,Product Review
+FB00353,"Overall, i would like an option to export my order history as a CSV file.",2025-07-24,4,Positive,Website,Feature Request,Product Review
+FB00354,"In my experience, refund processing took much longer than expected.",2026-07-11,3,Negative,Orders,Refund,Email
+FB00355,"The interface is clean, but the checkout process has too many steps.",2025-07-15,3,Neutral,Website,User Interface,Survey
+FB00356,The app crashes whenever I open the notifications page.,2025-10-07,2,Negative,Mobile App,Technical Issue,Product Review
+FB00357,"Recently, the app crashes whenever I open the notifications page.",2026-03-27,3,Negative,Mobile App,Technical Issue,Email
+FB00358,"Overall, refund processing took much longer than expected.",2026-05-25,3,Negative,Orders,Refund,Survey
+FB00359,"In my experience, i am happy with the service overall.",2026-03-11,4,Positive,Service,General,Product Review
+FB00360,"As a customer, please allow users to save products to a wishlist.",2026-07-13,4,Positive,Website,Feature Request,Survey
+FB00361,Refund processing took much longer than expected.,2025-12-02,1,Negative,Orders,Refund,Survey
+FB00362,"Recently, i would like an option to export my order history as a CSV file.",2025-06-20,5,Positive,Website,Feature Request,Email
+FB00363,"Recently, the app crashes whenever I open the notifications page.",2025-12-28,1,Negative,Mobile App,Technical Issue,App Review
+FB00364,"In my experience, please allow users to save products to a wishlist.",2025-03-18,4,Positive,Website,Feature Request,Email
+FB00365,"As a customer, the app crashes whenever I open the notifications page.",2025-02-01,2,Negative,Mobile App,Technical Issue,Customer Support
+FB00366,"Recently, the support team answered my question, but the response took two days.",2025-02-05,3,Neutral,Customer Support,Support,Customer Support
+FB00367,"Overall, customer support resolved my issue quickly and professionally.",2026-01-06,5,Positive,Customer Support,Support,Email
+FB00368,Adding biometric login would make signing in much easier.,2026-04-06,4,Positive,Mobile App,Feature Request,Survey
+FB00369,"Recently, the app crashes whenever I open the notifications page.",2026-08-11,1,Negative,Mobile App,Technical Issue,Customer Support
+FB00370,"In my experience, i am happy with the service overall.",2025-11-18,5,Positive,Service,General,Survey
+FB00371,I cannot log in after changing my password.,2025-07-10,1,Negative,Account,Login,Email
+FB00372,"Recently, i am happy with the service overall.",2025-09-26,4,Positive,Service,General,Survey
+FB00373,"Overall, the delivery arrived earlier than expected and everything was packed well.",2026-05-18,5,Positive,Delivery,Delivery,Customer Support
+FB00374,"Overall, the payment failed twice even though my bank account was charged.",2026-04-08,1,Negative,Checkout,Payment,Customer Support
+FB00375,The delivery arrived earlier than expected and everything was packed well.,2025-12-22,5,Positive,Delivery,Delivery,Product Review
+FB00376,"As a customer, the instructions are confusing and I had trouble completing my order.",2025-11-04,2,Negative,Website,Usability,Customer Support
+FB00377,"In my experience, delivery was three days late and there was no useful tracking update.",2025-05-05,2,Negative,Delivery,Delivery,Customer Support
+FB00378,"Overall, the new search feature is excellent and makes finding products much easier.",2025-01-27,5,Positive,Website,Search,Survey
+FB00379,"As a customer, the instructions are confusing and I had trouble completing my order.",2026-04-24,2,Negative,Website,Usability,App Review
+FB00380,"As a customer, the new search feature is excellent and makes finding products much easier.",2025-03-09,4,Positive,Website,Search,Survey
+FB00381,"Recently, prices are reasonable and the available discounts are useful.",2026-02-24,5,Positive,Website,Pricing,App Review
+FB00382,"Overall, customer support resolved my issue quickly and professionally.",2025-03-17,5,Positive,Customer Support,Support,Email
+FB00383,"As a customer, the delivery arrived earlier than expected and everything was packed well.",2025-05-12,5,Positive,Delivery,Delivery,App Review
+FB00384,"Overall, adding biometric login would make signing in much easier.",2026-03-20,4,Positive,Mobile App,Feature Request,App Review
+FB00385,Please add a dark mode. It would make the app easier to use at night.,2025-11-08,4,Positive,Mobile App,Feature Request,Customer Support
+FB00386,"In my experience, delivery was three days late and there was no useful tracking update.",2025-12-21,2,Negative,Delivery,Delivery,App Review
+FB00387,I would like an option to export my order history as a CSV file.,2025-07-21,5,Positive,Website,Feature Request,App Review
+FB00388,"Overall, the interface is clean, but the checkout process has too many steps.",2026-10-03,3,Neutral,Website,User Interface,Survey
+FB00389,"As a customer, the support team answered my question, but the response took two days.",2025-04-06,3,Neutral,Customer Support,Support,App Review
+FB00390,"As a customer, delivery was three days late and there was no useful tracking update.",2025-06-25,2,Negative,Delivery,Delivery,App Review
+FB00391,"In my experience, the support team answered my question, but the response took two days.",2026-08-01,3,Neutral,Customer Support,Support,Product Review
+FB00392,The app loads very slowly and sometimes freezes.,2026-08-14,1,Negative,Mobile App,Performance,Survey
+FB00393,"As a customer, the product quality is good for the price.",2026-09-25,5,Positive,Product,Product Quality,Product Review
+FB00394,"As a customer, the website occasionally becomes unresponsive during checkout.",2025-11-06,2,Negative,Website,Performance,Email
+FB00395,"Recently, i cannot log in after changing my password.",2026-04-10,2,Negative,Account,Login,Product Review
+FB00396,"Overall, please add a dark mode. It would make the app easier to use at night.",2026-03-02,5,Positive,Mobile App,Feature Request,Email
+FB00397,"Overall, the delivery arrived earlier than expected and everything was packed well.",2026-09-14,5,Positive,Delivery,Delivery,Customer Support
+FB00398,"In my experience, refund processing took much longer than expected.",2026-02-13,2,Negative,Orders,Refund,Customer Support
+FB00399,"As a customer, the app crashes whenever I open the notifications page.",2025-11-23,1,Negative,Mobile App,Technical Issue,Customer Support
+FB00400,The delivery arrived earlier than expected and everything was packed well.,2026-04-06,5,Positive,Delivery,Delivery,Customer Support
+FB00401,The new search feature is excellent and makes finding products much easier.,2025-10-25,4,Positive,Website,Search,Email
+FB00402,"Recently, the support team answered my question, but the response took two days.",2025-09-12,3,Neutral,Customer Support,Support,Customer Support
+FB00403,"As a customer, refund processing took much longer than expected.",2025-07-14,2,Negative,Orders,Refund,Customer Support
+FB00404,"As a customer, the website occasionally becomes unresponsive during checkout.",2026-05-26,3,Negative,Website,Performance,Survey
+FB00405,The website occasionally becomes unresponsive during checkout.,2026-02-07,1,Negative,Website,Performance,App Review
+FB00406,"Overall, the delivery arrived earlier than expected and everything was packed well.",2026-08-21,4,Positive,Delivery,Delivery,Survey
+FB00407,Please add a dark mode. It would make the app easier to use at night.,2026-05-22,5,Positive,Mobile App,Feature Request,App Review
+FB00408,"In my experience, the website occasionally becomes unresponsive during checkout.",2025-04-21,1,Negative,Website,Performance,Email
+FB00409,"In my experience, the new search feature is excellent and makes finding products much easier.",2026-02-17,5,Positive,Website,Search,Survey
+FB00410,"Recently, please add a dark mode. It would make the app easier to use at night.",2026-08-07,4,Positive,Mobile App,Feature Request,App Review
+FB00411,"In my experience, the product quality is good for the price.",2025-03-17,5,Positive,Product,Product Quality,Email
+FB00412,"Recently, i am happy with the service overall.",2026-10-01,5,Positive,Service,General,App Review
+FB00413,"Overall, the payment failed twice even though my bank account was charged.",2026-02-08,1,Negative,Checkout,Payment,Survey
+FB00414,"As a customer, refund processing took much longer than expected.",2025-05-28,2,Negative,Orders,Refund,Customer Support
+FB00415,"As a customer, the support team answered my question, but the response took two days.",2026-02-16,3,Neutral,Customer Support,Support,App Review
+FB00416,Please add a dark mode. It would make the app easier to use at night.,2025-05-21,4,Positive,Mobile App,Feature Request,Survey
+FB00417,"As a customer, the website occasionally becomes unresponsive during checkout.",2025-06-02,3,Negative,Website,Performance,App Review
+FB00418,"Overall, i am happy with the service overall.",2026-09-20,5,Positive,Service,General,Survey
+FB00419,"Recently, delivery was three days late and there was no useful tracking update.",2026-08-31,2,Negative,Delivery,Delivery,Survey
+FB00420,"As a customer, i am happy with the service overall.",2026-07-31,5,Positive,Service,General,Survey
+FB00421,The website occasionally becomes unresponsive during checkout.,2025-12-06,2,Negative,Website,Performance,Product Review
+FB00422,"As a customer, please allow users to save products to a wishlist.",2025-01-28,5,Positive,Website,Feature Request,App Review
+FB00423,"In my experience, the website occasionally becomes unresponsive during checkout.",2025-02-22,2,Negative,Website,Performance,App Review
+FB00424,"Overall, the website occasionally becomes unresponsive during checkout.",2025-06-01,3,Negative,Website,Performance,Customer Support
+FB00425,"As a customer, please add a dark mode. It would make the app easier to use at night.",2025-07-15,4,Positive,Mobile App,Feature Request,Product Review
+FB00426,"In my experience, the delivery arrived earlier than expected and everything was packed well.",2025-06-05,5,Positive,Delivery,Delivery,Email
+FB00427,"Recently, the product quality is good for the price.",2025-03-05,5,Positive,Product,Product Quality,Customer Support
+FB00428,"Overall, i am happy with the service overall.",2026-05-05,5,Positive,Service,General,App Review
+FB00429,"In my experience, prices are reasonable and the available discounts are useful.",2026-04-16,4,Positive,Website,Pricing,App Review
+FB00430,"As a customer, refund processing took much longer than expected.",2025-09-28,2,Negative,Orders,Refund,App Review
+FB00431,"Overall, the website occasionally becomes unresponsive during checkout.",2025-10-13,2,Negative,Website,Performance,App Review
+FB00432,"Overall, i would like an option to export my order history as a CSV file.",2025-10-23,5,Positive,Website,Feature Request,Customer Support
+FB00433,"In my experience, the website occasionally becomes unresponsive during checkout.",2025-12-24,3,Negative,Website,Performance,App Review
+FB00434,"In my experience, the interface is clean, but the checkout process has too many steps.",2025-05-05,3,Neutral,Website,User Interface,App Review
+FB00435,"Recently, the instructions are confusing and I had trouble completing my order.",2025-12-20,3,Negative,Website,Usability,Customer Support
+FB00436,I would like an option to export my order history as a CSV file.,2025-03-22,5,Positive,Website,Feature Request,Survey
+FB00437,"In my experience, the delivery arrived earlier than expected and everything was packed well.",2025-08-08,5,Positive,Delivery,Delivery,Customer Support
+FB00438,"In my experience, the instructions are confusing and I had trouble completing my order.",2025-05-21,2,Negative,Website,Usability,Product Review
+FB00439,"As a customer, the support team answered my question, but the response took two days.",2025-09-03,3,Neutral,Customer Support,Support,Customer Support
+FB00440,"As a customer, please add a dark mode. It would make the app easier to use at night.",2025-08-27,4,Positive,Mobile App,Feature Request,Product Review
+FB00441,"Recently, the payment failed twice even though my bank account was charged.",2026-04-29,2,Negative,Checkout,Payment,Product Review
+FB00442,The new search feature is excellent and makes finding products much easier.,2026-02-21,4,Positive,Website,Search,Email
+FB00443,"Overall, the website occasionally becomes unresponsive during checkout.",2025-11-25,2,Negative,Website,Performance,Survey
+FB00444,Please add a dark mode. It would make the app easier to use at night.,2026-07-02,4,Positive,Mobile App,Feature Request,Product Review
+FB00445,"Recently, delivery was three days late and there was no useful tracking update.",2025-02-07,2,Negative,Delivery,Delivery,Email
+FB00446,"Overall, the website occasionally becomes unresponsive during checkout.",2025-02-08,2,Negative,Website,Performance,Product Review
+FB00447,"As a customer, i would like an option to export my order history as a CSV file.",2025-12-10,4,Positive,Website,Feature Request,Survey
+FB00448,"As a customer, the delivery arrived earlier than expected and everything was packed well.",2025-05-18,5,Positive,Delivery,Delivery,App Review
+FB00449,"In my experience, the delivery arrived earlier than expected and everything was packed well.",2025-04-26,4,Positive,Delivery,Delivery,Survey
+FB00450,"Recently, delivery was three days late and there was no useful tracking update.",2025-07-10,2,Negative,Delivery,Delivery,Product Review
+FB00451,"In my experience, refund processing took much longer than expected.",2025-06-29,2,Negative,Orders,Refund,App Review
+FB00452,"Recently, prices are reasonable and the available discounts are useful.",2025-03-30,5,Positive,Website,Pricing,Email
+FB00453,"Overall, the payment failed twice even though my bank account was charged.",2026-05-04,2,Negative,Checkout,Payment,Survey
+FB00454,I cannot log in after changing my password.,2026-01-28,2,Negative,Account,Login,Customer Support
+FB00455,"In my experience, the delivery arrived earlier than expected and everything was packed well.",2025-11-06,5,Positive,Delivery,Delivery,App Review
+FB00456,Adding biometric login would make signing in much easier.,2026-01-04,5,Positive,Mobile App,Feature Request,Customer Support
+FB00457,Please add a dark mode. It would make the app easier to use at night.,2025-11-11,5,Positive,Mobile App,Feature Request,Customer Support
+FB00458,"As a customer, prices are reasonable and the available discounts are useful.",2025-05-01,5,Positive,Website,Pricing,Survey
+FB00459,"As a customer, the app crashes whenever I open the notifications page.",2025-08-13,2,Negative,Mobile App,Technical Issue,Customer Support
+FB00460,"Overall, the website occasionally becomes unresponsive during checkout.",2026-09-13,3,Negative,Website,Performance,Survey
+FB00461,"As a customer, please allow users to save products to a wishlist.",2026-07-05,5,Positive,Website,Feature Request,Customer Support
+FB00462,"As a customer, i cannot log in after changing my password.",2026-06-23,1,Negative,Account,Login,Email
+FB00463,"In my experience, i am happy with the service overall.",2026-08-01,4,Positive,Service,General,Product Review
+FB00464,"As a customer, please add a dark mode. It would make the app easier to use at night.",2026-08-10,4,Positive,Mobile App,Feature Request,App Review
+FB00465,"Overall, the new search feature is excellent and makes finding products much easier.",2026-06-17,5,Positive,Website,Search,Email
+FB00466,"Overall, the payment failed twice even though my bank account was charged.",2025-04-04,3,Negative,Checkout,Payment,App Review
+FB00467,The delivery arrived earlier than expected and everything was packed well.,2025-05-16,5,Positive,Delivery,Delivery,App Review
+FB00468,"Recently, please allow users to save products to a wishlist.",2026-07-27,4,Positive,Website,Feature Request,Email
+FB00469,I would like an option to export my order history as a CSV file.,2025-09-18,5,Positive,Website,Feature Request,Product Review
+FB00470,"As a customer, the product quality is good for the price.",2025-02-16,4,Positive,Product,Product Quality,Email
+FB00471,The app crashes whenever I open the notifications page.,2025-03-12,1,Negative,Mobile App,Technical Issue,Email
+FB00472,"In my experience, please add a dark mode. It would make the app easier to use at night.",2025-07-04,5,Positive,Mobile App,Feature Request,Customer Support
+FB00473,"In my experience, please allow users to save products to a wishlist.",2026-04-05,5,Positive,Website,Feature Request,Email
+FB00474,Prices are reasonable and the available discounts are useful.,2025-12-23,4,Positive,Website,Pricing,Product Review
+FB00475,"As a customer, delivery was three days late and there was no useful tracking update.",2026-06-26,3,Negative,Delivery,Delivery,Customer Support
+FB00476,I cannot log in after changing my password.,2025-11-02,1,Negative,Account,Login,Email
+FB00477,"Recently, the instructions are confusing and I had trouble completing my order.",2025-08-24,3,Negative,Website,Usability,Customer Support
+FB00478,"In my experience, the delivery arrived earlier than expected and everything was packed well.",2025-10-10,4,Positive,Delivery,Delivery,Customer Support
+FB00479,The payment failed twice even though my bank account was charged.,2026-09-22,3,Negative,Checkout,Payment,Product Review
+FB00480,"Overall, i cannot log in after changing my password.",2025-04-14,1,Negative,Account,Login,App Review
+FB00481,"Recently, please add a dark mode. It would make the app easier to use at night.",2025-09-08,4,Positive,Mobile App,Feature Request,Product Review
+FB00482,"Recently, prices are reasonable and the available discounts are useful.",2026-07-07,4,Positive,Website,Pricing,Customer Support
+FB00483,"Overall, please add a dark mode. It would make the app easier to use at night.",2025-08-28,5,Positive,Mobile App,Feature Request,App Review
+FB00484,"As a customer, refund processing took much longer than expected.",2025-08-31,2,Negative,Orders,Refund,Survey
+FB00485,"As a customer, the new search feature is excellent and makes finding products much easier.",2026-02-28,4,Positive,Website,Search,Survey
+FB00486,"The interface is clean, but the checkout process has too many steps.",2026-07-25,3,Neutral,Website,User Interface,App Review
+FB00487,"Recently, delivery was three days late and there was no useful tracking update.",2025-02-18,3,Negative,Delivery,Delivery,Survey
+FB00488,"As a customer, prices are reasonable and the available discounts are useful.",2026-03-03,5,Positive,Website,Pricing,Email
+FB00489,"In my experience, the new search feature is excellent and makes finding products much easier.",2025-07-08,5,Positive,Website,Search,App Review
+FB00490,"Overall, the website occasionally becomes unresponsive during checkout.",2025-11-04,2,Negative,Website,Performance,Customer Support
+FB00491,The delivery arrived earlier than expected and everything was packed well.,2026-03-03,5,Positive,Delivery,Delivery,App Review
+FB00492,"Overall, i am happy with the service overall.",2025-09-06,5,Positive,Service,General,Survey
+FB00493,"In my experience, the product quality is good for the price.",2026-04-06,4,Positive,Product,Product Quality,Survey
+FB00494,"As a customer, customer support resolved my issue quickly and professionally.",2025-02-22,4,Positive,Customer Support,Support,Survey
+FB00495,"As a customer, prices are reasonable and the available discounts are useful.",2025-03-16,4,Positive,Website,Pricing,Customer Support
+FB00496,"As a customer, adding biometric login would make signing in much easier.",2026-05-06,4,Positive,Mobile App,Feature Request,Customer Support
+FB00497,"In my experience, refund processing took much longer than expected.",2025-08-05,1,Negative,Orders,Refund,Customer Support
+FB00498,"Recently, the payment failed twice even though my bank account was charged.",2026-09-11,2,Negative,Checkout,Payment,Customer Support
+FB00499,"Overall, prices are reasonable and the available discounts are useful.",2025-10-17,5,Positive,Website,Pricing,Email
+FB00500,"As a customer, the delivery arrived earlier than expected and everything was packed well.",2025-11-12,5,Positive,Delivery,Delivery,Survey
+FB00501,"As a customer, the app crashes whenever I open the notifications page.",2026-04-23,3,Negative,Mobile App,Technical Issue,Product Review
+FB00502,"In my experience, the website occasionally becomes unresponsive during checkout.",2026-01-15,2,Negative,Website,Performance,Survey
+FB00503,Please allow users to save products to a wishlist.,2025-05-30,4,Positive,Website,Feature Request,Product Review
+FB00504,"As a customer, the interface is clean, but the checkout process has too many steps.",2026-08-22,3,Neutral,Website,User Interface,App Review
+FB00505,"In my experience, please allow users to save products to a wishlist.",2025-07-20,4,Positive,Website,Feature Request,Survey
+FB00506,"Recently, i cannot log in after changing my password.",2026-05-27,2,Negative,Account,Login,App Review
+FB00507,"In my experience, refund processing took much longer than expected.",2026-05-18,3,Negative,Orders,Refund,Email
+FB00508,"In my experience, delivery was three days late and there was no useful tracking update.",2025-05-24,2,Negative,Delivery,Delivery,App Review
+FB00509,"Overall, the website occasionally becomes unresponsive during checkout.",2026-06-21,1,Negative,Website,Performance,Product Review
+FB00510,Customer support resolved my issue quickly and professionally.,2026-02-27,4,Positive,Customer Support,Support,Customer Support
+FB00511,I cannot log in after changing my password.,2025-01-10,2,Negative,Account,Login,Customer Support
+FB00512,"Recently, i am happy with the service overall.",2025-03-03,5,Positive,Service,General,App Review
+FB00513,"Recently, the support team answered my question, but the response took two days.",2026-05-15,3,Neutral,Customer Support,Support,Product Review
+FB00514,"As a customer, the app loads very slowly and sometimes freezes.",2025-01-13,3,Negative,Mobile App,Performance,Product Review
+FB00515,"In my experience, i am happy with the service overall.",2025-01-18,5,Positive,Service,General,App Review
+FB00516,"Overall, please allow users to save products to a wishlist.",2025-04-09,4,Positive,Website,Feature Request,App Review
+FB00517,"Overall, the new search feature is excellent and makes finding products much easier.",2026-09-27,4,Positive,Website,Search,App Review
+FB00518,"In my experience, the interface is clean, but the checkout process has too many steps.",2025-10-01,3,Neutral,Website,User Interface,Email
+FB00519,"In my experience, customer support resolved my issue quickly and professionally.",2026-04-16,5,Positive,Customer Support,Support,App Review
+FB00520,"Overall, i cannot log in after changing my password.",2025-03-24,2,Negative,Account,Login,Product Review
+FB00521,"Recently, customer support resolved my issue quickly and professionally.",2026-01-22,5,Positive,Customer Support,Support,App Review
+FB00522,The website occasionally becomes unresponsive during checkout.,2025-06-25,1,Negative,Website,Performance,Product Review
+FB00523,"Recently, the website occasionally becomes unresponsive during checkout.",2026-08-03,2,Negative,Website,Performance,Product Review
+FB00524,I am happy with the service overall.,2025-08-05,4,Positive,Service,General,App Review
+FB00525,"In my experience, the website occasionally becomes unresponsive during checkout.",2025-03-18,1,Negative,Website,Performance,Survey
+FB00526,"As a customer, the instructions are confusing and I had trouble completing my order.",2025-07-03,1,Negative,Website,Usability,Survey
+FB00527,"Overall, the app loads very slowly and sometimes freezes.",2026-02-12,2,Negative,Mobile App,Performance,Product Review
+FB00528,"Overall, i would like an option to export my order history as a CSV file.",2026-08-04,4,Positive,Website,Feature Request,Email
+FB00529,"In my experience, the instructions are confusing and I had trouble completing my order.",2025-05-24,3,Negative,Website,Usability,Product Review
+FB00530,"In my experience, i am happy with the service overall.",2025-04-11,4,Positive,Service,General,Email
+FB00531,I cannot log in after changing my password.,2026-09-12,2,Negative,Account,Login,App Review
+FB00532,"Recently, the support team answered my question, but the response took two days.",2025-12-01,3,Neutral,Customer Support,Support,Product Review
+FB00533,"Recently, the interface is clean, but the checkout process has too many steps.",2026-05-18,3,Neutral,Website,User Interface,Customer Support
+FB00534,"As a customer, the app crashes whenever I open the notifications page.",2026-03-19,3,Negative,Mobile App,Technical Issue,Customer Support
+FB00535,"Recently, adding biometric login would make signing in much easier.",2026-09-26,4,Positive,Mobile App,Feature Request,Survey
+FB00536,I cannot log in after changing my password.,2025-10-02,1,Negative,Account,Login,Customer Support
+FB00537,"Overall, prices are reasonable and the available discounts are useful.",2025-11-21,5,Positive,Website,Pricing,Survey
+FB00538,The payment failed twice even though my bank account was charged.,2025-11-12,1,Negative,Checkout,Payment,Email
+FB00539,"In my experience, the app crashes whenever I open the notifications page.",2025-05-16,1,Negative,Mobile App,Technical Issue,Product Review
+FB00540,"Recently, delivery was three days late and there was no useful tracking update.",2026-07-25,3,Negative,Delivery,Delivery,App Review
+FB00541,"Recently, i am happy with the service overall.",2025-01-27,4,Positive,Service,General,Product Review
+FB00542,"As a customer, the app crashes whenever I open the notifications page.",2026-09-04,1,Negative,Mobile App,Technical Issue,App Review
+FB00543,"Recently, refund processing took much longer than expected.",2025-10-26,1,Negative,Orders,Refund,Email
+FB00544,Prices are reasonable and the available discounts are useful.,2026-08-09,4,Positive,Website,Pricing,App Review
+FB00545,"Recently, delivery was three days late and there was no useful tracking update.",2025-05-23,2,Negative,Delivery,Delivery,Survey
+FB00546,"In my experience, i would like an option to export my order history as a CSV file.",2025-05-30,5,Positive,Website,Feature Request,Product Review
+FB00547,"Recently, delivery was three days late and there was no useful tracking update.",2026-03-08,2,Negative,Delivery,Delivery,Survey
+FB00548,The website occasionally becomes unresponsive during checkout.,2025-09-15,2,Negative,Website,Performance,Customer Support
+FB00549,"As a customer, the website occasionally becomes unresponsive during checkout.",2026-04-14,2,Negative,Website,Performance,Product Review
+FB00550,"In my experience, the new search feature is excellent and makes finding products much easier.",2026-02-10,4,Positive,Website,Search,Survey
+FB00551,"Recently, the support team answered my question, but the response took two days.",2025-12-04,3,Neutral,Customer Support,Support,Email
+FB00552,"Recently, refund processing took much longer than expected.",2025-11-04,2,Negative,Orders,Refund,Survey
+FB00553,"Overall, the support team answered my question, but the response took two days.",2026-05-06,3,Neutral,Customer Support,Support,Survey
+FB00554,"Recently, delivery was three days late and there was no useful tracking update.",2025-10-26,2,Negative,Delivery,Delivery,Email
+FB00555,"Overall, adding biometric login would make signing in much easier.",2026-01-21,5,Positive,Mobile App,Feature Request,Survey
+FB00556,"In my experience, prices are reasonable and the available discounts are useful.",2026-08-01,4,Positive,Website,Pricing,Customer Support
+FB00557,"As a customer, adding biometric login would make signing in much easier.",2026-07-18,4,Positive,Mobile App,Feature Request,Product Review
+FB00558,"Overall, the delivery arrived earlier than expected and everything was packed well.",2025-10-26,5,Positive,Delivery,Delivery,Product Review
+FB00559,"Recently, please allow users to save products to a wishlist.",2025-11-07,4,Positive,Website,Feature Request,Customer Support
+FB00560,"Overall, the interface is clean, but the checkout process has too many steps.",2026-03-10,3,Neutral,Website,User Interface,Email
+FB00561,"Recently, customer support resolved my issue quickly and professionally.",2026-08-20,5,Positive,Customer Support,Support,Email
+FB00562,"As a customer, the instructions are confusing and I had trouble completing my order.",2026-07-11,3,Negative,Website,Usability,Product Review
+FB00563,"As a customer, the app crashes whenever I open the notifications page.",2025-04-22,1,Negative,Mobile App,Technical Issue,Customer Support
+FB00564,"Overall, the app crashes whenever I open the notifications page.",2026-07-31,1,Negative,Mobile App,Technical Issue,Email
+FB00565,"Recently, refund processing took much longer than expected.",2025-01-11,1,Negative,Orders,Refund,Product Review
+FB00566,"Overall, the interface is clean, but the checkout process has too many steps.",2026-06-07,3,Neutral,Website,User Interface,App Review
+FB00567,"As a customer, the instructions are confusing and I had trouble completing my order.",2026-04-02,2,Negative,Website,Usability,Survey
+FB00568,"Recently, prices are reasonable and the available discounts are useful.",2025-12-20,4,Positive,Website,Pricing,Product Review
+FB00569,The website occasionally becomes unresponsive during checkout.,2026-03-02,2,Negative,Website,Performance,Product Review
+FB00570,"Overall, the payment failed twice even though my bank account was charged.",2025-11-16,2,Negative,Checkout,Payment,Survey
+FB00571,"Overall, the delivery arrived earlier than expected and everything was packed well.",2025-12-23,5,Positive,Delivery,Delivery,Email
+FB00572,"Recently, the payment failed twice even though my bank account was charged.",2025-11-23,3,Negative,Checkout,Payment,Product Review
+FB00573,I would like an option to export my order history as a CSV file.,2025-01-24,4,Positive,Website,Feature Request,Survey
+FB00574,"Overall, the payment failed twice even though my bank account was charged.",2026-06-13,2,Negative,Checkout,Payment,Customer Support
+FB00575,"Overall, the instructions are confusing and I had trouble completing my order.",2026-07-28,2,Negative,Website,Usability,Email
+FB00576,"Overall, the delivery arrived earlier than expected and everything was packed well.",2025-07-08,5,Positive,Delivery,Delivery,Customer Support
+FB00577,"Recently, please allow users to save products to a wishlist.",2026-09-21,4,Positive,Website,Feature Request,Customer Support
+FB00578,"As a customer, the delivery arrived earlier than expected and everything was packed well.",2026-02-03,5,Positive,Delivery,Delivery,Product Review
+FB00579,"Overall, the product quality is good for the price.",2025-03-06,5,Positive,Product,Product Quality,App Review
+FB00580,"As a customer, the payment failed twice even though my bank account was charged.",2026-01-10,2,Negative,Checkout,Payment,Survey
+FB00581,"Recently, the product quality is good for the price.",2025-09-26,4,Positive,Product,Product Quality,Email
+FB00582,"In my experience, i am happy with the service overall.",2026-09-18,5,Positive,Service,General,Email
+FB00583,Adding biometric login would make signing in much easier.,2025-12-27,5,Positive,Mobile App,Feature Request,Email
+FB00584,"Overall, the support team answered my question, but the response took two days.",2025-11-01,3,Neutral,Customer Support,Support,App Review
+FB00585,Adding biometric login would make signing in much easier.,2025-11-17,4,Positive,Mobile App,Feature Request,Product Review
+FB00586,"In my experience, i cannot log in after changing my password.",2025-07-07,1,Negative,Account,Login,Survey
+FB00587,"As a customer, the new search feature is excellent and makes finding products much easier.",2026-03-05,5,Positive,Website,Search,App Review
+FB00588,"As a customer, the new search feature is excellent and makes finding products much easier.",2026-03-10,5,Positive,Website,Search,Customer Support
+FB00589,"As a customer, the website occasionally becomes unresponsive during checkout.",2026-07-23,2,Negative,Website,Performance,Customer Support
+FB00590,"In my experience, the website occasionally becomes unresponsive during checkout.",2025-07-11,2,Negative,Website,Performance,Survey
+FB00591,"As a customer, the delivery arrived earlier than expected and everything was packed well.",2026-01-03,4,Positive,Delivery,Delivery,Product Review
+FB00592,"Overall, the website occasionally becomes unresponsive during checkout.",2026-01-29,2,Negative,Website,Performance,App Review
+FB00593,"Recently, i am happy with the service overall.",2026-05-19,5,Positive,Service,General,Email
+FB00594,"Recently, the delivery arrived earlier than expected and everything was packed well.",2025-03-26,4,Positive,Delivery,Delivery,App Review
+FB00595,"Overall, the app loads very slowly and sometimes freezes.",2025-02-03,2,Negative,Mobile App,Performance,Survey
+FB00596,"As a customer, i cannot log in after changing my password.",2025-06-22,2,Negative,Account,Login,Email
+FB00597,"Recently, adding biometric login would make signing in much easier.",2026-08-10,4,Positive,Mobile App,Feature Request,Product Review
+FB00598,"As a customer, the interface is clean, but the checkout process has too many steps.",2026-01-11,3,Neutral,Website,User Interface,App Review
+FB00599,"Recently, please add a dark mode. It would make the app easier to use at night.",2026-03-12,4,Positive,Mobile App,Feature Request,Product Review
+FB00600,"In my experience, i cannot log in after changing my password.",2026-04-06,1,Negative,Account,Login,Survey
+FB00601,The app crashes whenever I open the notifications page.,2025-05-01,3,Negative,Mobile App,Technical Issue,Customer Support
+FB00602,"As a customer, the product quality is good for the price.",2026-09-17,5,Positive,Product,Product Quality,Email
+FB00603,"As a customer, delivery was three days late and there was no useful tracking update.",2025-07-31,2,Negative,Delivery,Delivery,Customer Support
+FB00604,"As a customer, please add a dark mode. It would make the app easier to use at night.",2026-06-30,5,Positive,Mobile App,Feature Request,Survey
+FB00605,"As a customer, the support team answered my question, but the response took two days.",2025-06-22,3,Neutral,Customer Support,Support,Survey
+FB00606,"In my experience, i would like an option to export my order history as a CSV file.",2026-06-11,5,Positive,Website,Feature Request,Product Review
+FB00607,"Recently, the new search feature is excellent and makes finding products much easier.",2025-10-11,4,Positive,Website,Search,Customer Support
+FB00608,"Overall, the new search feature is excellent and makes finding products much easier.",2025-11-26,4,Positive,Website,Search,Customer Support
+FB00609,"Recently, prices are reasonable and the available discounts are useful.",2026-08-15,4,Positive,Website,Pricing,Survey
+FB00610,"Recently, please allow users to save products to a wishlist.",2025-03-19,5,Positive,Website,Feature Request,Product Review
+FB00611,"As a customer, prices are reasonable and the available discounts are useful.",2026-01-13,5,Positive,Website,Pricing,Email
+FB00612,"In my experience, the website occasionally becomes unresponsive during checkout.",2025-04-06,1,Negative,Website,Performance,Email
+FB00613,The app crashes whenever I open the notifications page.,2025-08-12,3,Negative,Mobile App,Technical Issue,Email
+FB00614,"Recently, the product quality is good for the price.",2025-11-27,5,Positive,Product,Product Quality,Survey
+FB00615,"As a customer, refund processing took much longer than expected.",2026-08-03,2,Negative,Orders,Refund,Email
+FB00616,Refund processing took much longer than expected.,2025-04-12,1,Negative,Orders,Refund,Email
+FB00617,The app loads very slowly and sometimes freezes.,2026-03-28,2,Negative,Mobile App,Performance,Email
+FB00618,"Recently, the app loads very slowly and sometimes freezes.",2025-05-16,2,Negative,Mobile App,Performance,Survey
+FB00619,"In my experience, delivery was three days late and there was no useful tracking update.",2026-01-05,1,Negative,Delivery,Delivery,Survey
+FB00620,"In my experience, customer support resolved my issue quickly and professionally.",2025-02-23,4,Positive,Customer Support,Support,Email
+FB00621,"Overall, i would like an option to export my order history as a CSV file.",2025-04-04,5,Positive,Website,Feature Request,Product Review
+FB00622,"Overall, the app loads very slowly and sometimes freezes.",2025-03-21,3,Negative,Mobile App,Performance,Customer Support
+FB00623,"Overall, adding biometric login would make signing in much easier.",2025-01-10,5,Positive,Mobile App,Feature Request,Product Review
+FB00624,Refund processing took much longer than expected.,2025-05-16,3,Negative,Orders,Refund,Email
+FB00625,"Overall, customer support resolved my issue quickly and professionally.",2025-04-02,5,Positive,Customer Support,Support,Product Review
+FB00626,"In my experience, the payment failed twice even though my bank account was charged.",2025-11-03,2,Negative,Checkout,Payment,Customer Support
+FB00627,"Overall, prices are reasonable and the available discounts are useful.",2025-03-12,4,Positive,Website,Pricing,App Review
+FB00628,Adding biometric login would make signing in much easier.,2026-03-27,4,Positive,Mobile App,Feature Request,Survey
+FB00629,"Overall, the product quality is good for the price.",2026-09-23,5,Positive,Product,Product Quality,Email
+FB00630,The product quality is good for the price.,2025-05-24,4,Positive,Product,Product Quality,Product Review
+FB00631,"Recently, adding biometric login would make signing in much easier.",2026-03-16,5,Positive,Mobile App,Feature Request,Survey
+FB00632,"Overall, the new search feature is excellent and makes finding products much easier.",2025-03-28,5,Positive,Website,Search,Customer Support
+FB00633,"As a customer, the instructions are confusing and I had trouble completing my order.",2025-01-28,2,Negative,Website,Usability,Survey
+FB00634,"As a customer, the product quality is good for the price.",2026-02-06,4,Positive,Product,Product Quality,Survey
+FB00635,"Overall, please add a dark mode. It would make the app easier to use at night.",2026-01-31,5,Positive,Mobile App,Feature Request,Product Review
+FB00636,"Recently, i cannot log in after changing my password.",2026-06-25,1,Negative,Account,Login,Product Review
+FB00637,"In my experience, the app crashes whenever I open the notifications page.",2026-02-01,2,Negative,Mobile App,Technical Issue,App Review
+FB00638,"In my experience, please allow users to save products to a wishlist.",2026-04-28,4,Positive,Website,Feature Request,Product Review
+FB00639,"As a customer, the app loads very slowly and sometimes freezes.",2025-01-15,1,Negative,Mobile App,Performance,Survey
+FB00640,The product quality is good for the price.,2026-02-12,4,Positive,Product,Product Quality,App Review
+FB00641,"As a customer, i would like an option to export my order history as a CSV file.",2026-03-10,5,Positive,Website,Feature Request,Email
+FB00642,"As a customer, customer support resolved my issue quickly and professionally.",2025-10-12,4,Positive,Customer Support,Support,Product Review
+FB00643,I would like an option to export my order history as a CSV file.,2025-06-09,4,Positive,Website,Feature Request,App Review
+FB00644,"Recently, refund processing took much longer than expected.",2025-11-14,1,Negative,Orders,Refund,Email
+FB00645,I cannot log in after changing my password.,2025-03-30,2,Negative,Account,Login,Email
+FB00646,"Recently, the payment failed twice even though my bank account was charged.",2025-11-13,1,Negative,Checkout,Payment,Customer Support
+FB00647,The payment failed twice even though my bank account was charged.,2025-01-12,2,Negative,Checkout,Payment,Customer Support
+FB00648,"In my experience, the website occasionally becomes unresponsive during checkout.",2025-06-20,2,Negative,Website,Performance,Survey
+FB00649,"In my experience, the new search feature is excellent and makes finding products much easier.",2025-01-31,4,Positive,Website,Search,Survey
+FB00650,"In my experience, please allow users to save products to a wishlist.",2025-09-27,4,Positive,Website,Feature Request,App Review
+FB00651,"Recently, customer support resolved my issue quickly and professionally.",2026-06-08,5,Positive,Customer Support,Support,Survey
+FB00652,"Recently, please add a dark mode. It would make the app easier to use at night.",2026-01-12,4,Positive,Mobile App,Feature Request,Customer Support
+FB00653,"The interface is clean, but the checkout process has too many steps.",2026-08-11,3,Neutral,Website,User Interface,Product Review
+FB00654,"As a customer, i cannot log in after changing my password.",2025-02-15,1,Negative,Account,Login,Product Review
+FB00655,I cannot log in after changing my password.,2026-01-08,3,Negative,Account,Login,Email
+FB00656,"Overall, the new search feature is excellent and makes finding products much easier.",2026-07-21,4,Positive,Website,Search,Email
+FB00657,"In my experience, i cannot log in after changing my password.",2026-03-03,2,Negative,Account,Login,Survey
+FB00658,"The interface is clean, but the checkout process has too many steps.",2026-08-09,3,Neutral,Website,User Interface,Survey
+FB00659,"As a customer, the payment failed twice even though my bank account was charged.",2025-07-03,1,Negative,Checkout,Payment,Customer Support
+FB00660,I am happy with the service overall.,2025-03-12,5,Positive,Service,General,Email
+FB00661,"In my experience, i would like an option to export my order history as a CSV file.",2025-03-30,5,Positive,Website,Feature Request,App Review
+FB00662,The delivery arrived earlier than expected and everything was packed well.,2025-07-25,5,Positive,Delivery,Delivery,Survey
+FB00663,"In my experience, adding biometric login would make signing in much easier.",2026-04-21,4,Positive,Mobile App,Feature Request,Survey
+FB00664,"Recently, adding biometric login would make signing in much easier.",2026-07-14,4,Positive,Mobile App,Feature Request,Customer Support
+FB00665,The new search feature is excellent and makes finding products much easier.,2025-01-25,5,Positive,Website,Search,Customer Support
+FB00666,"In my experience, the instructions are confusing and I had trouble completing my order.",2025-12-10,1,Negative,Website,Usability,Product Review
+FB00667,"In my experience, prices are reasonable and the available discounts are useful.",2025-07-30,4,Positive,Website,Pricing,App Review
+FB00668,"Recently, i cannot log in after changing my password.",2025-03-03,3,Negative,Account,Login,Customer Support
+FB00669,"The interface is clean, but the checkout process has too many steps.",2025-02-14,3,Neutral,Website,User Interface,Customer Support
+FB00670,"Recently, i am happy with the service overall.",2026-04-15,5,Positive,Service,General,Product Review
+FB00671,Adding biometric login would make signing in much easier.,2026-02-08,4,Positive,Mobile App,Feature Request,Product Review
+FB00672,"As a customer, adding biometric login would make signing in much easier.",2026-03-22,4,Positive,Mobile App,Feature Request,Customer Support
+FB00673,"In my experience, i cannot log in after changing my password.",2025-11-19,2,Negative,Account,Login,Email
+FB00674,"In my experience, refund processing took much longer than expected.",2025-10-06,3,Negative,Orders,Refund,Customer Support
+FB00675,"Overall, customer support resolved my issue quickly and professionally.",2026-08-22,4,Positive,Customer Support,Support,Product Review
+FB00676,The new search feature is excellent and makes finding products much easier.,2026-04-06,4,Positive,Website,Search,Email
+FB00677,"Recently, refund processing took much longer than expected.",2026-07-03,1,Negative,Orders,Refund,Survey
+FB00678,"Recently, the product quality is good for the price.",2026-04-20,5,Positive,Product,Product Quality,Survey
+FB00679,The payment failed twice even though my bank account was charged.,2025-11-08,2,Negative,Checkout,Payment,App Review
+FB00680,"Overall, please add a dark mode. It would make the app easier to use at night.",2025-06-01,5,Positive,Mobile App,Feature Request,Product Review
+FB00681,"In my experience, i cannot log in after changing my password.",2026-06-10,3,Negative,Account,Login,Product Review
+FB00682,"In my experience, i would like an option to export my order history as a CSV file.",2025-02-01,4,Positive,Website,Feature Request,Email
+FB00683,"As a customer, the delivery arrived earlier than expected and everything was packed well.",2025-04-07,4,Positive,Delivery,Delivery,Email
+FB00684,"Overall, the payment failed twice even though my bank account was charged.",2025-01-13,1,Negative,Checkout,Payment,Product Review
+FB00685,"Overall, i cannot log in after changing my password.",2026-02-15,2,Negative,Account,Login,Survey
+FB00686,"As a customer, customer support resolved my issue quickly and professionally.",2025-03-18,5,Positive,Customer Support,Support,Product Review
+FB00687,"Overall, customer support resolved my issue quickly and professionally.",2025-05-12,5,Positive,Customer Support,Support,Product Review
+FB00688,Refund processing took much longer than expected.,2026-04-18,1,Negative,Orders,Refund,Product Review
+FB00689,"As a customer, delivery was three days late and there was no useful tracking update.",2026-02-09,3,Negative,Delivery,Delivery,Email
+FB00690,"Recently, the app loads very slowly and sometimes freezes.",2025-06-26,3,Negative,Mobile App,Performance,Survey
+FB00691,"Overall, the product quality is good for the price.",2025-10-14,5,Positive,Product,Product Quality,Email
+FB00692,The new search feature is excellent and makes finding products much easier.,2025-10-30,4,Positive,Website,Search,Email
+FB00693,"As a customer, please allow users to save products to a wishlist.",2025-03-04,5,Positive,Website,Feature Request,Product Review
+FB00694,"Recently, the interface is clean, but the checkout process has too many steps.",2025-05-21,3,Neutral,Website,User Interface,Email
+FB00695,"As a customer, the product quality is good for the price.",2026-07-11,4,Positive,Product,Product Quality,Product Review
+FB00696,"In my experience, prices are reasonable and the available discounts are useful.",2026-07-12,5,Positive,Website,Pricing,Email
+FB00697,"As a customer, the app crashes whenever I open the notifications page.",2026-02-02,2,Negative,Mobile App,Technical Issue,Survey
+FB00698,Delivery was three days late and there was no useful tracking update.,2026-09-04,2,Negative,Delivery,Delivery,Customer Support
+FB00699,"In my experience, the app loads very slowly and sometimes freezes.",2026-04-29,1,Negative,Mobile App,Performance,App Review
+FB00700,"As a customer, the app crashes whenever I open the notifications page.",2025-06-13,2,Negative,Mobile App,Technical Issue,Product Review
+FB00701,"Overall, i cannot log in after changing my password.",2026-07-01,2,Negative,Account,Login,Product Review
+FB00702,"As a customer, i cannot log in after changing my password.",2025-12-30,3,Negative,Account,Login,Customer Support
+FB00703,"Overall, delivery was three days late and there was no useful tracking update.",2026-01-03,2,Negative,Delivery,Delivery,App Review
+FB00704,"In my experience, the app loads very slowly and sometimes freezes.",2026-07-31,2,Negative,Mobile App,Performance,Customer Support
+FB00705,"As a customer, the website occasionally becomes unresponsive during checkout.",2025-06-29,2,Negative,Website,Performance,Email
+FB00706,Please add a dark mode. It would make the app easier to use at night.,2025-08-27,4,Positive,Mobile App,Feature Request,App Review
+FB00707,I cannot log in after changing my password.,2025-01-01,3,Negative,Account,Login,Survey
+FB00708,"Overall, the support team answered my question, but the response took two days.",2025-05-14,3,Neutral,Customer Support,Support,Survey
+FB00709,"In my experience, delivery was three days late and there was no useful tracking update.",2025-01-23,1,Negative,Delivery,Delivery,Customer Support
+FB00710,"Overall, adding biometric login would make signing in much easier.",2026-06-23,4,Positive,Mobile App,Feature Request,Survey
+FB00711,"In my experience, customer support resolved my issue quickly and professionally.",2026-08-24,5,Positive,Customer Support,Support,Product Review
+FB00712,"In my experience, refund processing took much longer than expected.",2025-05-20,2,Negative,Orders,Refund,Customer Support
+FB00713,"Recently, please allow users to save products to a wishlist.",2025-06-28,5,Positive,Website,Feature Request,App Review
+FB00714,"In my experience, the support team answered my question, but the response took two days.",2025-08-17,3,Neutral,Customer Support,Support,App Review
+FB00715,"Recently, delivery was three days late and there was no useful tracking update.",2025-10-29,2,Negative,Delivery,Delivery,Customer Support
+FB00716,Delivery was three days late and there was no useful tracking update.,2026-08-05,3,Negative,Delivery,Delivery,Product Review
+FB00717,"As a customer, delivery was three days late and there was no useful tracking update.",2026-09-19,2,Negative,Delivery,Delivery,Customer Support
+FB00718,Adding biometric login would make signing in much easier.,2025-05-25,5,Positive,Mobile App,Feature Request,Survey
+FB00719,"Overall, customer support resolved my issue quickly and professionally.",2025-11-24,5,Positive,Customer Support,Support,Customer Support
+FB00720,"In my experience, customer support resolved my issue quickly and professionally.",2025-01-12,5,Positive,Customer Support,Support,Survey
+FB00721,"Overall, the product quality is good for the price.",2025-12-25,4,Positive,Product,Product Quality,Survey
+FB00722,The payment failed twice even though my bank account was charged.,2026-01-31,1,Negative,Checkout,Payment,Email
+FB00723,"Overall, please allow users to save products to a wishlist.",2026-05-20,5,Positive,Website,Feature Request,Email
+FB00724,"As a customer, the app crashes whenever I open the notifications page.",2025-04-14,3,Negative,Mobile App,Technical Issue,Email
+FB00725,"Overall, adding biometric login would make signing in much easier.",2026-04-08,4,Positive,Mobile App,Feature Request,Product Review
+FB00726,"In my experience, please add a dark mode. It would make the app easier to use at night.",2025-11-23,4,Positive,Mobile App,Feature Request,Survey
+FB00727,The payment failed twice even though my bank account was charged.,2025-06-24,2,Negative,Checkout,Payment,Email
+FB00728,Delivery was three days late and there was no useful tracking update.,2025-12-13,1,Negative,Delivery,Delivery,App Review
+FB00729,"Recently, the support team answered my question, but the response took two days.",2025-02-01,3,Neutral,Customer Support,Support,Email
+FB00730,"As a customer, delivery was three days late and there was no useful tracking update.",2025-06-10,3,Negative,Delivery,Delivery,Product Review
+FB00731,"In my experience, the payment failed twice even though my bank account was charged.",2025-07-14,2,Negative,Checkout,Payment,Email
+FB00732,"As a customer, the instructions are confusing and I had trouble completing my order.",2025-10-16,2,Negative,Website,Usability,Survey
+FB00733,I cannot log in after changing my password.,2026-02-07,1,Negative,Account,Login,App Review
+FB00734,"Recently, the instructions are confusing and I had trouble completing my order.",2025-02-25,2,Negative,Website,Usability,Survey
+FB00735,"Recently, the app loads very slowly and sometimes freezes.",2025-10-29,1,Negative,Mobile App,Performance,App Review
+FB00736,"Overall, the website occasionally becomes unresponsive during checkout.",2025-01-27,1,Negative,Website,Performance,Customer Support
+FB00737,"In my experience, delivery was three days late and there was no useful tracking update.",2026-04-30,1,Negative,Delivery,Delivery,Product Review
+FB00738,"Recently, i would like an option to export my order history as a CSV file.",2026-05-16,5,Positive,Website,Feature Request,Survey
+FB00739,"As a customer, customer support resolved my issue quickly and professionally.",2025-07-09,5,Positive,Customer Support,Support,Survey
+FB00740,"In my experience, prices are reasonable and the available discounts are useful.",2026-04-02,4,Positive,Website,Pricing,Product Review
+FB00741,"Recently, the interface is clean, but the checkout process has too many steps.",2026-04-22,3,Neutral,Website,User Interface,Survey
+FB00742,"In my experience, i cannot log in after changing my password.",2025-06-04,1,Negative,Account,Login,Product Review
+FB00743,"In my experience, customer support resolved my issue quickly and professionally.",2026-08-27,5,Positive,Customer Support,Support,Customer Support
+FB00744,The instructions are confusing and I had trouble completing my order.,2026-06-20,3,Negative,Website,Usability,Email
+FB00745,"Recently, the instructions are confusing and I had trouble completing my order.",2026-05-03,2,Negative,Website,Usability,Survey
+FB00746,"Recently, customer support resolved my issue quickly and professionally.",2026-05-30,4,Positive,Customer Support,Support,App Review
+FB00747,"As a customer, i am happy with the service overall.",2025-05-04,4,Positive,Service,General,Email
+FB00748,"Overall, delivery was three days late and there was no useful tracking update.",2025-07-17,2,Negative,Delivery,Delivery,Customer Support
+FB00749,"Recently, please add a dark mode. It would make the app easier to use at night.",2026-03-22,4,Positive,Mobile App,Feature Request,Customer Support
+FB00750,"As a customer, the new search feature is excellent and makes finding products much easier.",2025-11-24,5,Positive,Website,Search,Product Review
+FB00751,"Recently, customer support resolved my issue quickly and professionally.",2026-07-20,5,Positive,Customer Support,Support,Survey
+FB00752,"As a customer, the interface is clean, but the checkout process has too many steps.",2026-04-15,3,Neutral,Website,User Interface,Product Review
+FB00753,"As a customer, the support team answered my question, but the response took two days.",2026-06-20,3,Neutral,Customer Support,Support,Email
+FB00754,"Recently, the payment failed twice even though my bank account was charged.",2025-06-01,2,Negative,Checkout,Payment,App Review
+FB00755,"As a customer, adding biometric login would make signing in much easier.",2025-04-19,4,Positive,Mobile App,Feature Request,App Review
+FB00756,"In my experience, the payment failed twice even though my bank account was charged.",2026-02-25,2,Negative,Checkout,Payment,Survey
+FB00757,"Recently, prices are reasonable and the available discounts are useful.",2025-02-08,5,Positive,Website,Pricing,Customer Support
+FB00758,"Recently, the interface is clean, but the checkout process has too many steps.",2025-05-28,3,Neutral,Website,User Interface,App Review
+FB00759,"Recently, the support team answered my question, but the response took two days.",2025-02-09,3,Neutral,Customer Support,Support,Email
+FB00760,"Overall, refund processing took much longer than expected.",2026-05-02,1,Negative,Orders,Refund,Survey
+FB00761,The app crashes whenever I open the notifications page.,2025-11-07,2,Negative,Mobile App,Technical Issue,Survey
+FB00762,"Recently, the interface is clean, but the checkout process has too many steps.",2025-04-11,3,Neutral,Website,User Interface,Customer Support
+FB00763,"In my experience, the new search feature is excellent and makes finding products much easier.",2025-11-25,5,Positive,Website,Search,Survey
+FB00764,"As a customer, please allow users to save products to a wishlist.",2025-07-12,4,Positive,Website,Feature Request,Email
+FB00765,"Recently, the product quality is good for the price.",2026-06-13,5,Positive,Product,Product Quality,Survey
+FB00766,"As a customer, please add a dark mode. It would make the app easier to use at night.",2025-03-09,4,Positive,Mobile App,Feature Request,Survey
+FB00767,"Recently, i am happy with the service overall.",2026-06-21,4,Positive,Service,General,App Review
+FB00768,"Overall, the app loads very slowly and sometimes freezes.",2025-07-25,2,Negative,Mobile App,Performance,Product Review
+FB00769,I cannot log in after changing my password.,2025-02-21,3,Negative,Account,Login,Survey
+FB00770,"In my experience, the product quality is good for the price.",2026-04-21,5,Positive,Product,Product Quality,App Review
+FB00771,Prices are reasonable and the available discounts are useful.,2025-09-05,4,Positive,Website,Pricing,Survey
+FB00772,"As a customer, the website occasionally becomes unresponsive during checkout.",2025-07-01,3,Negative,Website,Performance,Email
+FB00773,"As a customer, adding biometric login would make signing in much easier.",2025-12-19,5,Positive,Mobile App,Feature Request,Customer Support
+FB00774,"The interface is clean, but the checkout process has too many steps.",2025-10-19,3,Neutral,Website,User Interface,Product Review
+FB00775,Prices are reasonable and the available discounts are useful.,2026-08-09,4,Positive,Website,Pricing,Customer Support
+FB00776,"Overall, i cannot log in after changing my password.",2025-10-03,2,Negative,Account,Login,Email
+FB00777,I am happy with the service overall.,2026-05-01,4,Positive,Service,General,Customer Support
+FB00778,"As a customer, delivery was three days late and there was no useful tracking update.",2025-08-18,1,Negative,Delivery,Delivery,Survey
+FB00779,"In my experience, the support team answered my question, but the response took two days.",2025-10-09,3,Neutral,Customer Support,Support,Email
+FB00780,"In my experience, prices are reasonable and the available discounts are useful.",2025-09-16,5,Positive,Website,Pricing,Customer Support
+FB00781,"In my experience, the delivery arrived earlier than expected and everything was packed well.",2026-08-22,5,Positive,Delivery,Delivery,Product Review
+FB00782,"As a customer, the app loads very slowly and sometimes freezes.",2026-07-29,2,Negative,Mobile App,Performance,App Review
+FB00783,"In my experience, the support team answered my question, but the response took two days.",2025-11-02,3,Neutral,Customer Support,Support,Product Review
+FB00784,The website occasionally becomes unresponsive during checkout.,2025-10-11,2,Negative,Website,Performance,Survey
+FB00785,"In my experience, the interface is clean, but the checkout process has too many steps.",2025-11-02,3,Neutral,Website,User Interface,Customer Support
+FB00786,"As a customer, the new search feature is excellent and makes finding products much easier.",2025-02-28,4,Positive,Website,Search,App Review
+FB00787,"In my experience, prices are reasonable and the available discounts are useful.",2025-01-27,4,Positive,Website,Pricing,Email
+FB00788,"In my experience, i would like an option to export my order history as a CSV file.",2026-02-19,5,Positive,Website,Feature Request,Email
+FB00789,"As a customer, please add a dark mode. It would make the app easier to use at night.",2025-12-18,4,Positive,Mobile App,Feature Request,Customer Support
+FB00790,"Recently, the instructions are confusing and I had trouble completing my order.",2026-06-04,2,Negative,Website,Usability,Survey
+FB00791,"As a customer, delivery was three days late and there was no useful tracking update.",2025-10-28,2,Negative,Delivery,Delivery,Product Review
+FB00792,"Overall, the website occasionally becomes unresponsive during checkout.",2026-07-27,2,Negative,Website,Performance,Customer Support
+FB00793,Refund processing took much longer than expected.,2025-12-30,2,Negative,Orders,Refund,Customer Support
+FB00794,"Recently, i would like an option to export my order history as a CSV file.",2026-01-16,5,Positive,Website,Feature Request,Survey
+FB00795,"In my experience, adding biometric login would make signing in much easier.",2025-05-01,5,Positive,Mobile App,Feature Request,Email
+FB00796,"As a customer, please add a dark mode. It would make the app easier to use at night.",2026-04-29,4,Positive,Mobile App,Feature Request,Customer Support
+FB00797,I am happy with the service overall.,2026-06-27,5,Positive,Service,General,Survey
+FB00798,Please allow users to save products to a wishlist.,2025-05-21,4,Positive,Website,Feature Request,Customer Support
+FB00799,"Recently, refund processing took much longer than expected.",2025-05-27,3,Negative,Orders,Refund,Survey
+FB00800,Delivery was three days late and there was no useful tracking update.,2025-12-07,3,Negative,Delivery,Delivery,Customer Support
+FB00801,Refund processing took much longer than expected.,2026-04-08,1,Negative,Orders,Refund,Survey
+FB00802,"Overall, the product quality is good for the price.",2026-05-17,4,Positive,Product,Product Quality,Product Review
+FB00803,"As a customer, the new search feature is excellent and makes finding products much easier.",2026-03-16,5,Positive,Website,Search,Email
+FB00804,"Recently, please allow users to save products to a wishlist.",2025-01-05,5,Positive,Website,Feature Request,Product Review
+FB00805,"Overall, the instructions are confusing and I had trouble completing my order.",2025-01-15,2,Negative,Website,Usability,Survey
+FB00806,"Overall, i am happy with the service overall.",2025-01-05,4,Positive,Service,General,Customer Support
+FB00807,"In my experience, i cannot log in after changing my password.",2025-05-13,2,Negative,Account,Login,Product Review
+FB00808,"As a customer, prices are reasonable and the available discounts are useful.",2025-06-21,5,Positive,Website,Pricing,Product Review
+FB00809,"In my experience, please add a dark mode. It would make the app easier to use at night.",2026-04-12,5,Positive,Mobile App,Feature Request,App Review
+FB00810,"As a customer, the support team answered my question, but the response took two days.",2025-12-12,3,Neutral,Customer Support,Support,Email
+FB00811,"In my experience, the new search feature is excellent and makes finding products much easier.",2026-01-03,5,Positive,Website,Search,Customer Support
+FB00812,"Recently, delivery was three days late and there was no useful tracking update.",2025-08-22,1,Negative,Delivery,Delivery,Customer Support
+FB00813,"Overall, the new search feature is excellent and makes finding products much easier.",2026-08-27,4,Positive,Website,Search,App Review
+FB00814,Delivery was three days late and there was no useful tracking update.,2025-02-08,2,Negative,Delivery,Delivery,Email
+FB00815,"As a customer, the interface is clean, but the checkout process has too many steps.",2026-10-01,3,Neutral,Website,User Interface,Product Review
+FB00816,"The support team answered my question, but the response took two days.",2025-04-21,3,Neutral,Customer Support,Support,Product Review
+FB00817,Please add a dark mode. It would make the app easier to use at night.,2026-03-31,5,Positive,Mobile App,Feature Request,Email
+FB00818,"As a customer, the payment failed twice even though my bank account was charged.",2026-05-01,2,Negative,Checkout,Payment,Customer Support
+FB00819,The product quality is good for the price.,2026-03-07,5,Positive,Product,Product Quality,Product Review
+FB00820,"In my experience, i am happy with the service overall.",2026-03-05,4,Positive,Service,General,Product Review
+FB00821,"As a customer, i am happy with the service overall.",2025-10-17,4,Positive,Service,General,Product Review
+FB00822,"Recently, the payment failed twice even though my bank account was charged.",2026-09-16,2,Negative,Checkout,Payment,Customer Support
+FB00823,"As a customer, the interface is clean, but the checkout process has too many steps.",2025-07-26,3,Neutral,Website,User Interface,Survey
+FB00824,"In my experience, please allow users to save products to a wishlist.",2025-02-10,4,Positive,Website,Feature Request,App Review
+FB00825,"Overall, the website occasionally becomes unresponsive during checkout.",2025-12-05,3,Negative,Website,Performance,Customer Support
+FB00826,The app loads very slowly and sometimes freezes.,2025-04-24,1,Negative,Mobile App,Performance,App Review
+FB00827,"Overall, the website occasionally becomes unresponsive during checkout.",2026-06-08,1,Negative,Website,Performance,Product Review
+FB00828,"In my experience, the payment failed twice even though my bank account was charged.",2026-04-13,2,Negative,Checkout,Payment,Survey
+FB00829,"Recently, the interface is clean, but the checkout process has too many steps.",2025-02-21,3,Neutral,Website,User Interface,Product Review
+FB00830,Delivery was three days late and there was no useful tracking update.,2026-01-04,2,Negative,Delivery,Delivery,Survey
+FB00831,Please allow users to save products to a wishlist.,2025-02-16,4,Positive,Website,Feature Request,Product Review
+FB00832,"Overall, the new search feature is excellent and makes finding products much easier.",2026-01-02,5,Positive,Website,Search,Email
+FB00833,"In my experience, the support team answered my question, but the response took two days.",2025-04-06,3,Neutral,Customer Support,Support,Survey
+FB00834,"Overall, refund processing took much longer than expected.",2026-02-15,1,Negative,Orders,Refund,Email
+FB00835,"In my experience, the delivery arrived earlier than expected and everything was packed well.",2026-05-05,5,Positive,Delivery,Delivery,Email
+FB00836,Delivery was three days late and there was no useful tracking update.,2025-03-02,2,Negative,Delivery,Delivery,Customer Support
+FB00837,"Recently, the payment failed twice even though my bank account was charged.",2026-08-06,3,Negative,Checkout,Payment,Email
+FB00838,"As a customer, delivery was three days late and there was no useful tracking update.",2026-01-03,3,Negative,Delivery,Delivery,App Review
+FB00839,"Overall, the app loads very slowly and sometimes freezes.",2026-05-15,3,Negative,Mobile App,Performance,Product Review
+FB00840,"Recently, please allow users to save products to a wishlist.",2025-03-06,4,Positive,Website,Feature Request,Survey
+FB00841,Refund processing took much longer than expected.,2025-12-13,2,Negative,Orders,Refund,App Review
+FB00842,"As a customer, i am happy with the service overall.",2026-03-20,4,Positive,Service,General,Customer Support
+FB00843,"In my experience, the website occasionally becomes unresponsive during checkout.",2025-06-02,3,Negative,Website,Performance,App Review
+FB00844,"The support team answered my question, but the response took two days.",2025-01-12,3,Neutral,Customer Support,Support,Customer Support
+FB00845,"Recently, i am happy with the service overall.",2025-06-19,5,Positive,Service,General,Product Review
+FB00846,"In my experience, the website occasionally becomes unresponsive during checkout.",2025-12-05,2,Negative,Website,Performance,Survey
+FB00847,"As a customer, please add a dark mode. It would make the app easier to use at night.",2026-07-18,4,Positive,Mobile App,Feature Request,Email
+FB00848,"Overall, prices are reasonable and the available discounts are useful.",2026-04-16,4,Positive,Website,Pricing,Email
+FB00849,"Recently, adding biometric login would make signing in much easier.",2026-05-26,4,Positive,Mobile App,Feature Request,Email
+FB00850,Refund processing took much longer than expected.,2025-01-19,3,Negative,Orders,Refund,Product Review
+FB00851,"Recently, prices are reasonable and the available discounts are useful.",2026-07-25,4,Positive,Website,Pricing,App Review
+FB00852,The app loads very slowly and sometimes freezes.,2026-06-05,2,Negative,Mobile App,Performance,App Review
+FB00853,"Recently, the product quality is good for the price.",2026-01-08,5,Positive,Product,Product Quality,Product Review
+FB00854,"Recently, i cannot log in after changing my password.",2026-07-28,2,Negative,Account,Login,App Review
+FB00855,"Recently, the support team answered my question, but the response took two days.",2026-01-08,3,Neutral,Customer Support,Support,Email
+FB00856,The payment failed twice even though my bank account was charged.,2025-01-03,2,Negative,Checkout,Payment,Survey
+FB00857,"In my experience, the app crashes whenever I open the notifications page.",2025-04-19,2,Negative,Mobile App,Technical Issue,Product Review
+FB00858,"Recently, delivery was three days late and there was no useful tracking update.",2026-02-24,2,Negative,Delivery,Delivery,Product Review
+FB00859,"As a customer, the interface is clean, but the checkout process has too many steps.",2025-07-20,3,Neutral,Website,User Interface,Customer Support
+FB00860,"Recently, the payment failed twice even though my bank account was charged.",2026-04-14,2,Negative,Checkout,Payment,Customer Support
+FB00861,Refund processing took much longer than expected.,2025-02-17,3,Negative,Orders,Refund,App Review
+FB00862,"Recently, the payment failed twice even though my bank account was charged.",2026-08-27,3,Negative,Checkout,Payment,App Review
+FB00863,"Recently, the new search feature is excellent and makes finding products much easier.",2026-06-28,4,Positive,Website,Search,Product Review
+FB00864,"Recently, the instructions are confusing and I had trouble completing my order.",2026-06-05,3,Negative,Website,Usability,Customer Support
+FB00865,"Overall, adding biometric login would make signing in much easier.",2025-04-17,4,Positive,Mobile App,Feature Request,Email
+FB00866,"As a customer, the support team answered my question, but the response took two days.",2025-11-26,3,Neutral,Customer Support,Support,App Review
+FB00867,"Recently, prices are reasonable and the available discounts are useful.",2025-10-08,4,Positive,Website,Pricing,Email
+FB00868,"In my experience, refund processing took much longer than expected.",2025-05-17,3,Negative,Orders,Refund,Customer Support
+FB00869,"As a customer, please allow users to save products to a wishlist.",2026-07-15,5,Positive,Website,Feature Request,Survey
+FB00870,"Overall, the instructions are confusing and I had trouble completing my order.",2025-08-03,2,Negative,Website,Usability,App Review
+FB00871,"In my experience, i would like an option to export my order history as a CSV file.",2025-07-02,4,Positive,Website,Feature Request,App Review
+FB00872,"In my experience, the instructions are confusing and I had trouble completing my order.",2025-12-27,1,Negative,Website,Usability,App Review
+FB00873,"As a customer, the website occasionally becomes unresponsive during checkout.",2026-07-01,3,Negative,Website,Performance,Survey
+FB00874,Please allow users to save products to a wishlist.,2025-01-26,4,Positive,Website,Feature Request,Email
+FB00875,The new search feature is excellent and makes finding products much easier.,2025-07-24,4,Positive,Website,Search,Survey
+FB00876,"In my experience, delivery was three days late and there was no useful tracking update.",2025-05-30,2,Negative,Delivery,Delivery,Product Review
+FB00877,"Overall, i would like an option to export my order history as a CSV file.",2026-01-03,4,Positive,Website,Feature Request,Email
+FB00878,"As a customer, the payment failed twice even though my bank account was charged.",2026-07-29,2,Negative,Checkout,Payment,Email
+FB00879,"As a customer, i cannot log in after changing my password.",2025-02-18,2,Negative,Account,Login,Email
+FB00880,"Recently, prices are reasonable and the available discounts are useful.",2026-07-20,5,Positive,Website,Pricing,Product Review
+FB00881,"In my experience, the app loads very slowly and sometimes freezes.",2026-09-28,2,Negative,Mobile App,Performance,Email
+FB00882,"In my experience, i cannot log in after changing my password.",2025-07-18,2,Negative,Account,Login,Survey
+FB00883,"Overall, the delivery arrived earlier than expected and everything was packed well.",2025-07-11,4,Positive,Delivery,Delivery,Customer Support
+FB00884,I am happy with the service overall.,2025-02-11,5,Positive,Service,General,Email
+FB00885,"As a customer, the interface is clean, but the checkout process has too many steps.",2025-09-28,3,Neutral,Website,User Interface,Customer Support
+FB00886,"As a customer, delivery was three days late and there was no useful tracking update.",2025-01-06,2,Negative,Delivery,Delivery,Survey
+FB00887,"Overall, the delivery arrived earlier than expected and everything was packed well.",2025-06-07,4,Positive,Delivery,Delivery,Survey
+FB00888,"The support team answered my question, but the response took two days.",2026-10-03,3,Neutral,Customer Support,Support,App Review
+FB00889,"Recently, i would like an option to export my order history as a CSV file.",2025-03-16,5,Positive,Website,Feature Request,Survey
+FB00890,"Overall, i am happy with the service overall.",2026-06-18,4,Positive,Service,General,Product Review
+FB00891,"Overall, i am happy with the service overall.",2026-07-11,5,Positive,Service,General,App Review
+FB00892,Prices are reasonable and the available discounts are useful.,2025-08-15,5,Positive,Website,Pricing,Customer Support
+FB00893,"In my experience, refund processing took much longer than expected.",2025-10-28,2,Negative,Orders,Refund,Customer Support
+FB00894,"As a customer, the support team answered my question, but the response took two days.",2026-05-02,3,Neutral,Customer Support,Support,App Review
+FB00895,The app loads very slowly and sometimes freezes.,2026-04-02,2,Negative,Mobile App,Performance,Customer Support
+FB00896,"As a customer, the support team answered my question, but the response took two days.",2025-09-07,3,Neutral,Customer Support,Support,Product Review
+FB00897,"Recently, refund processing took much longer than expected.",2026-01-31,1,Negative,Orders,Refund,Survey
+FB00898,"In my experience, the instructions are confusing and I had trouble completing my order.",2026-06-14,1,Negative,Website,Usability,Survey
+FB00899,"As a customer, i am happy with the service overall.",2026-05-14,5,Positive,Service,General,Product Review
+FB00900,"Overall, i would like an option to export my order history as a CSV file.",2026-06-11,5,Positive,Website,Feature Request,Product Review
+FB00901,"Overall, the payment failed twice even though my bank account was charged.",2025-03-09,1,Negative,Checkout,Payment,Customer Support
+FB00902,"Recently, the product quality is good for the price.",2025-07-30,4,Positive,Product,Product Quality,App Review
+FB00903,Please allow users to save products to a wishlist.,2025-01-25,4,Positive,Website,Feature Request,Email
+FB00904,Refund processing took much longer than expected.,2025-03-17,1,Negative,Orders,Refund,Product Review
+FB00905,"In my experience, delivery was three days late and there was no useful tracking update.",2026-08-12,1,Negative,Delivery,Delivery,Customer Support
+FB00906,"Recently, the interface is clean, but the checkout process has too many steps.",2026-02-02,3,Neutral,Website,User Interface,Email
+FB00907,"Recently, prices are reasonable and the available discounts are useful.",2025-01-18,5,Positive,Website,Pricing,Email
+FB00908,"As a customer, the payment failed twice even though my bank account was charged.",2026-09-26,1,Negative,Checkout,Payment,Product Review
+FB00909,Adding biometric login would make signing in much easier.,2026-01-02,4,Positive,Mobile App,Feature Request,App Review
+FB00910,"In my experience, the payment failed twice even though my bank account was charged.",2026-09-14,2,Negative,Checkout,Payment,Product Review
+FB00911,"Recently, i would like an option to export my order history as a CSV file.",2026-02-09,5,Positive,Website,Feature Request,Product Review
+FB00912,"Overall, the website occasionally becomes unresponsive during checkout.",2025-05-20,2,Negative,Website,Performance,Email
+FB00913,"In my experience, the instructions are confusing and I had trouble completing my order.",2025-11-02,2,Negative,Website,Usability,Survey
+FB00914,"As a customer, the app loads very slowly and sometimes freezes.",2025-05-07,2,Negative,Mobile App,Performance,Product Review
+FB00915,"As a customer, the app loads very slowly and sometimes freezes.",2026-07-05,3,Negative,Mobile App,Performance,App Review
+FB00916,"In my experience, customer support resolved my issue quickly and professionally.",2025-12-19,4,Positive,Customer Support,Support,Customer Support
+FB00917,"As a customer, please allow users to save products to a wishlist.",2025-06-14,4,Positive,Website,Feature Request,Customer Support
+FB00918,"As a customer, i cannot log in after changing my password.",2025-07-18,2,Negative,Account,Login,Product Review
+FB00919,"As a customer, delivery was three days late and there was no useful tracking update.",2026-07-17,1,Negative,Delivery,Delivery,Email
+FB00920,The instructions are confusing and I had trouble completing my order.,2025-03-10,2,Negative,Website,Usability,Survey
+FB00921,"Overall, the payment failed twice even though my bank account was charged.",2025-12-05,3,Negative,Checkout,Payment,Survey
+FB00922,"Overall, the new search feature is excellent and makes finding products much easier.",2025-10-19,4,Positive,Website,Search,App Review
+FB00923,"Overall, customer support resolved my issue quickly and professionally.",2026-05-13,5,Positive,Customer Support,Support,Email
+FB00924,"As a customer, refund processing took much longer than expected.",2026-08-22,2,Negative,Orders,Refund,Customer Support
+FB00925,"As a customer, adding biometric login would make signing in much easier.",2025-11-20,5,Positive,Mobile App,Feature Request,Email
+FB00926,Delivery was three days late and there was no useful tracking update.,2025-09-10,2,Negative,Delivery,Delivery,Customer Support
+FB00927,"In my experience, please allow users to save products to a wishlist.",2025-05-18,5,Positive,Website,Feature Request,Survey
+FB00928,"Recently, the website occasionally becomes unresponsive during checkout.",2026-01-03,3,Negative,Website,Performance,Survey
+FB00929,"As a customer, the website occasionally becomes unresponsive during checkout.",2025-06-29,1,Negative,Website,Performance,App Review
+FB00930,"In my experience, customer support resolved my issue quickly and professionally.",2026-07-06,4,Positive,Customer Support,Support,Customer Support
+FB00931,"The interface is clean, but the checkout process has too many steps.",2025-03-19,3,Neutral,Website,User Interface,Product Review
+FB00932,I am happy with the service overall.,2026-08-28,5,Positive,Service,General,Customer Support
+FB00933,"As a customer, please add a dark mode. It would make the app easier to use at night.",2026-07-11,5,Positive,Mobile App,Feature Request,App Review
+FB00934,"Overall, the website occasionally becomes unresponsive during checkout.",2026-02-06,2,Negative,Website,Performance,Customer Support
+FB00935,"In my experience, adding biometric login would make signing in much easier.",2026-04-21,4,Positive,Mobile App,Feature Request,App Review
+FB00936,I am happy with the service overall.,2026-01-08,5,Positive,Service,General,App Review
+FB00937,"Overall, the app loads very slowly and sometimes freezes.",2026-06-11,2,Negative,Mobile App,Performance,Customer Support
+FB00938,"Overall, the delivery arrived earlier than expected and everything was packed well.",2026-08-03,4,Positive,Delivery,Delivery,App Review
+FB00939,"Recently, the new search feature is excellent and makes finding products much easier.",2025-02-11,5,Positive,Website,Search,Customer Support
+FB00940,"Overall, the website occasionally becomes unresponsive during checkout.",2025-09-28,1,Negative,Website,Performance,Survey
+FB00941,I cannot log in after changing my password.,2026-06-15,2,Negative,Account,Login,Survey
+FB00942,"Recently, prices are reasonable and the available discounts are useful.",2025-02-17,5,Positive,Website,Pricing,Product Review
+FB00943,Refund processing took much longer than expected.,2025-09-27,2,Negative,Orders,Refund,App Review
+FB00944,"As a customer, the instructions are confusing and I had trouble completing my order.",2026-01-21,2,Negative,Website,Usability,Email
+FB00945,"As a customer, the app crashes whenever I open the notifications page.",2026-06-14,1,Negative,Mobile App,Technical Issue,Survey
+FB00946,"Overall, prices are reasonable and the available discounts are useful.",2025-12-28,5,Positive,Website,Pricing,Survey
+FB00947,"Recently, the website occasionally becomes unresponsive during checkout.",2026-05-29,1,Negative,Website,Performance,Customer Support
+FB00948,"Overall, the delivery arrived earlier than expected and everything was packed well.",2025-03-20,4,Positive,Delivery,Delivery,App Review
+FB00949,"Overall, the interface is clean, but the checkout process has too many steps.",2025-06-03,3,Neutral,Website,User Interface,Customer Support
+FB00950,"In my experience, delivery was three days late and there was no useful tracking update.",2025-08-24,1,Negative,Delivery,Delivery,Email
+FB00951,Refund processing took much longer than expected.,2026-05-06,3,Negative,Orders,Refund,Email
+FB00952,"As a customer, the product quality is good for the price.",2026-02-25,4,Positive,Product,Product Quality,Product Review
+FB00953,I cannot log in after changing my password.,2026-08-11,2,Negative,Account,Login,App Review
+FB00954,"Overall, delivery was three days late and there was no useful tracking update.",2026-08-10,1,Negative,Delivery,Delivery,Customer Support
+FB00955,"Overall, please add a dark mode. It would make the app easier to use at night.",2025-07-04,5,Positive,Mobile App,Feature Request,App Review
+FB00956,"As a customer, prices are reasonable and the available discounts are useful.",2025-10-18,4,Positive,Website,Pricing,Product Review
+FB00957,"Recently, the product quality is good for the price.",2026-05-09,5,Positive,Product,Product Quality,Customer Support
+FB00958,"Recently, i cannot log in after changing my password.",2026-08-20,2,Negative,Account,Login,Customer Support
+FB00959,"As a customer, the support team answered my question, but the response took two days.",2025-09-28,3,Neutral,Customer Support,Support,Customer Support
+FB00960,"Recently, refund processing took much longer than expected.",2025-08-24,1,Negative,Orders,Refund,Email
+FB00961,"Overall, prices are reasonable and the available discounts are useful.",2025-01-17,4,Positive,Website,Pricing,Customer Support
+FB00962,"As a customer, i am happy with the service overall.",2025-06-03,5,Positive,Service,General,App Review
+FB00963,"Overall, the payment failed twice even though my bank account was charged.",2026-09-22,3,Negative,Checkout,Payment,App Review
+FB00964,"As a customer, please add a dark mode. It would make the app easier to use at night.",2025-04-06,4,Positive,Mobile App,Feature Request,Email
+FB00965,"As a customer, the new search feature is excellent and makes finding products much easier.",2026-03-18,4,Positive,Website,Search,App Review
+FB00966,"In my experience, please allow users to save products to a wishlist.",2026-06-27,4,Positive,Website,Feature Request,Email
+FB00967,"Recently, i cannot log in after changing my password.",2025-12-25,3,Negative,Account,Login,App Review
+FB00968,Adding biometric login would make signing in much easier.,2025-05-18,5,Positive,Mobile App,Feature Request,Survey
+FB00969,"Overall, the website occasionally becomes unresponsive during checkout.",2025-10-18,1,Negative,Website,Performance,App Review
+FB00970,"Recently, the instructions are confusing and I had trouble completing my order.",2025-07-13,2,Negative,Website,Usability,Product Review
+FB00971,"As a customer, the app loads very slowly and sometimes freezes.",2026-06-17,1,Negative,Mobile App,Performance,Product Review
+FB00972,"Overall, prices are reasonable and the available discounts are useful.",2026-02-23,5,Positive,Website,Pricing,Survey
+FB00973,"Overall, the payment failed twice even though my bank account was charged.",2026-08-23,3,Negative,Checkout,Payment,Survey
+FB00974,"As a customer, the interface is clean, but the checkout process has too many steps.",2026-03-10,3,Neutral,Website,User Interface,App Review
+FB00975,"As a customer, the app crashes whenever I open the notifications page.",2026-02-11,2,Negative,Mobile App,Technical Issue,Customer Support
+FB00976,"As a customer, please allow users to save products to a wishlist.",2025-07-03,5,Positive,Website,Feature Request,Survey
+FB00977,"As a customer, the instructions are confusing and I had trouble completing my order.",2025-09-17,3,Negative,Website,Usability,Survey
+FB00978,"In my experience, adding biometric login would make signing in much easier.",2025-05-22,5,Positive,Mobile App,Feature Request,Product Review
+FB00979,"Recently, i cannot log in after changing my password.",2025-04-13,2,Negative,Account,Login,Customer Support
+FB00980,"Recently, i am happy with the service overall.",2026-07-18,5,Positive,Service,General,App Review
+FB00981,"Overall, please add a dark mode. It would make the app easier to use at night.",2025-01-06,5,Positive,Mobile App,Feature Request,Product Review
+FB00982,"Recently, the new search feature is excellent and makes finding products much easier.",2025-04-01,5,Positive,Website,Search,Product Review
+FB00983,"Overall, the interface is clean, but the checkout process has too many steps.",2026-01-15,3,Neutral,Website,User Interface,Product Review
+FB00984,"The support team answered my question, but the response took two days.",2026-01-29,3,Neutral,Customer Support,Support,Email
+FB00985,"As a customer, the support team answered my question, but the response took two days.",2025-10-21,3,Neutral,Customer Support,Support,App Review
+FB00986,"Overall, please add a dark mode. It would make the app easier to use at night.",2026-03-26,5,Positive,Mobile App,Feature Request,Product Review
+FB00987,"As a customer, the product quality is good for the price.",2025-07-19,5,Positive,Product,Product Quality,Product Review
+FB00988,"As a customer, the support team answered my question, but the response took two days.",2026-06-13,3,Neutral,Customer Support,Support,Customer Support
+FB00989,"Overall, the support team answered my question, but the response took two days.",2025-02-06,3,Neutral,Customer Support,Support,Survey
+FB00990,I cannot log in after changing my password.,2025-03-30,2,Negative,Account,Login,Survey
+FB00991,"In my experience, prices are reasonable and the available discounts are useful.",2026-02-20,5,Positive,Website,Pricing,App Review
+FB00992,"As a customer, the product quality is good for the price.",2025-03-12,4,Positive,Product,Product Quality,Product Review
+FB00993,"In my experience, the instructions are confusing and I had trouble completing my order.",2025-12-22,2,Negative,Website,Usability,Survey
+FB00994,"As a customer, i cannot log in after changing my password.",2026-04-11,2,Negative,Account,Login,Email
+FB00995,Adding biometric login would make signing in much easier.,2025-06-29,5,Positive,Mobile App,Feature Request,Email
+FB00996,I am happy with the service overall.,2026-05-31,4,Positive,Service,General,Survey
+FB00997,Refund processing took much longer than expected.,2026-07-05,2,Negative,Orders,Refund,App Review
+FB00998,"Recently, the interface is clean, but the checkout process has too many steps.",2026-01-22,3,Neutral,Website,User Interface,App Review
+FB00999,"Overall, the website occasionally becomes unresponsive during checkout.",2026-04-15,2,Negative,Website,Performance,Email
+FB01000,Adding biometric login would make signing in much easier.,2025-04-30,5,Positive,Mobile App,Feature Request,Survey

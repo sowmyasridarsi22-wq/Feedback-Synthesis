@@ -1,0 +1,1 @@
+import {Router} from 'express';import multer from 'multer';import {upload} from '../controllers/uploadController.js';const r=Router();const u=multer({dest:'uploads/',limits:{fileSize:25*1024*1024},fileFilter:(req,file,cb)=>cb(null,file.originalname.toLowerCase().endsWith('.csv'))});r.post('/',u.single('file'),upload);export default r;
