@@ -1,1 +1,14 @@
-export default function Simple({title,description}){return <div><h2 className="text-3xl font-bold">{title}</h2><p className="text-slate-400 mt-2">{description}</p><div className="glass rounded-2xl p-6 mt-7"><p className="text-slate-300">Use the dashboard and Data Import workflow to populate this section with live analysis from your dataset.</p></div></div>}
+export default function Simple({ title, description }) {
+  return (
+    <div>
+      <h2 className="text-3xl font-bold">{title}</h2>
+      <p className="text-slate-400 mt-2">{description}</p>
+      <div className="glass rounded-2xl p-6 mt-7">
+        <p className="text-slate-300">
+          Use the dashboard and Data Import workflow to populate this section
+          with live analysis from your dataset.
+        </p>
+      </div>
+    </div>
+  );
+}
