@@ -1,120 +1,208 @@
-const model = process.env.GEMINI_MODEL || 'gemini-3.5-flash';
 
-const endpoint =
-  `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`;
+const GROQ_ENDPOINT = 'https://api.groq.com/openai/v1/chat/completions';
 
-function extract(text) {
+const getModel = () =>
+  process.env.GROQ_MODEL || 'openai/gpt-oss-20b';
+
+/**
+ * Parse JSON returned by Groq, including responses wrapped in Markdown.
+ */
+function parseJson(text) {
+  if (typeof text !== 'string' || !text.trim()) {
+    throw new Error('Groq returned an empty response.');
+  }
+
   const cleaned = text
-    .replace(/^```(?:json)?/, '')
-    .replace(/```$/, '')
+    .trim()
+    .replace(/^```(?:json)?\s*/i, '')
+    .replace(/\s*```$/i, '')
     .trim();
 
-  const start = cleaned.indexOf('[');
-  const end = cleaned.lastIndexOf(']');
+  try {
+    return JSON.parse(cleaned);
+  } catch {
+    const start = cleaned.indexOf('{');
+    const end = cleaned.lastIndexOf('}');
 
-  if (start === -1 || end === -1) {
-    throw new Error('Gemini returned invalid JSON array');
+    if (start === -1 || end <= start) {
+      throw new Error('Groq response did not contain a valid JSON object.');
+    }
+
+    try {
+      return JSON.parse(cleaned.slice(start, end + 1));
+    } catch {
+      throw new Error('Groq returned malformed JSON. Try a smaller batch.');
+    }
   }
-
-  return JSON.parse(cleaned.slice(start, end + 1));
 }
 
+/**
+ * Send a prompt to Groq Chat Completions.
+ */
+async function callGroq(prompt) {
+  const apiKey = process.env.GROQ_API_KEY;
+
+  if (!apiKey) {
+    throw new Error('GROQ_API_KEY is missing from server/.env');
+  }
+
+  const response = await fetch(GROQ_ENDPOINT, {
+    method: 'POST',
+    headers: {
+      Authorization: `Bearer ${apiKey}`,
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({
+      model: getModel(),
+      messages: [
+        {
+          role: 'system',
+          content:
+            'You are a customer feedback analyst. Follow the requested schema carefully. Return one valid JSON object only, without Markdown fences or explanatory text.'
+        },
+        {
+          role: 'user',
+          content: prompt
+        }
+      ],
+      temperature: 0.1,
+      max_completion_tokens: 8192
+    })
+  });
+
+  const responseText = await response.text();
+
+  if (!response.ok) {
+    throw new Error(
+      `Groq API error ${response.status}: ${responseText}`
+    );
+  }
+
+  let data;
+
+  try {
+    data = JSON.parse(responseText);
+  } catch {
+    throw new Error('Could not parse the Groq API response.');
+  }
+
+  const choice = data.choices?.[0];
+  const content = choice?.message?.content;
+
+  if (typeof content !== 'string' || !content.trim()) {
+    throw new Error(
+      `Groq returned no content. Finish reason: ${choice?.finish_reason || 'unknown'}`
+    );
+  }
+
+  if (choice.finish_reason === 'length') {
+    throw new Error(
+      'Groq response was truncated. Reduce BATCH_SIZE and retry.'
+    );
+  }
+
+  return parseJson(content);
+}
+
+/**
+ * Analyze a batch of feedback records.
+ * Returns an array, preserving the controller's expected interface.
+ */
 export async function analyzeBatch(items) {
-  if (!process.env.GEMINI_API_KEY) {
-    throw new Error('GEMINI_API_KEY is not configured');
+  if (!Array.isArray(items) || items.length === 0) {
+    return [];
   }
 
-  const prompt = `You are an expert customer feedback and product analyst. Analyze each item objectively. Do not invent facts. Return ONLY a JSON array in the same order. Each object must contain: sentiment (Positive/Neutral/Negative), sentimentScore (0-100), category, topic, subtopic, issue (string or null), keywords (array of 3-8 strings), featureRequest (boolean), requestedFeature (string or null), severity (Low/Medium/High/Critical), summary. Normalize similar topic names. Feedback:
-${items.map((x, i) => `${i}. ${x}`).join('\n')}`;
+  const feedback = items.map((item, index) => ({
+    id: index,
+    feedback:
+      typeof item === 'string'
+        ? item
+        : JSON.stringify(item)
+  }));
 
-  const r = await fetch(
-    `${endpoint}?key=${process.env.GEMINI_API_KEY}`,
+  const prompt = `
+Analyze the customer feedback records below.
+
+Return exactly one JSON object with this structure:
+{
+  "items": [
     {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json'
-      },
-      body: JSON.stringify({
-        contents: [
-          {
-            parts: [
-              {
-                text: prompt
-              }
-            ]
-          }
-        ],
-        generationConfig: {
-          temperature: 0.1,
-          responseMimeType: 'application/json'
-        }
-      })
+      "sentiment": "Positive",
+      "sentimentScore": 80,
+      "category": "Usability",
+      "topic": "Navigation",
+      "subtopic": null,
+      "issue": null,
+      "keywords": ["navigation", "interface", "usability"],
+      "featureRequest": false,
+      "requestedFeature": null,
+      "severity": "Low",
+      "summary": "A concise summary of the feedback."
     }
-  );
-
-  if (!r.ok) {
-    const errorText = await r.text();
-    throw new Error(`Gemini API error ${r.status}: ${errorText}`);
-  }
-
-  const j = await r.json();
-
-  const text =
-    j.candidates?.[0]?.content?.parts?.[0]?.text || '';
-
-  return extract(text);
+  ]
 }
 
+Rules:
+- Return exactly ${items.length} objects in the items array.
+- Keep results in the same order as the input.
+- Use the input id order to match each result to its feedback.
+- sentiment must be Positive, Neutral, or Negative.
+- sentimentScore must be an integer from 0 to 100.
+- category and topic must be short, meaningful labels.
+- subtopic and issue may be null if not applicable.
+- keywords must be an array of 3 to 8 strings.
+- featureRequest must be true or false.
+- requestedFeature must be a string or null.
+- severity must be Low, Medium, High, or Critical.
+- summary must briefly describe the actual feedback.
+- Do not invent information.
+- Return valid JSON only.
+
+Feedback records:
+${JSON.stringify(feedback)}
+`;
+
+  const result = await callGroq(prompt);
+
+  if (!Array.isArray(result.items)) {
+    throw new Error('Groq response is missing the items array.');
+  }
+
+  if (result.items.length !== items.length) {
+    throw new Error(
+      `Expected ${items.length} results but Groq returned ${result.items.length}.`
+    );
+  }
+
+  return result.items;
+}
+
+/**
+ * Generate an aggregate synthesis.
+ * Kept for compatibility with existing controller imports.
+ */
 export async function synthesize(stats) {
-  if (!process.env.GEMINI_API_KEY) {
-    return {
-      summary: 'Gemini API key is not configured.',
-      recommendations: []
-    };
-  }
+  const prompt = `
+Create an evidence-based synthesis of these aggregated customer
+feedback statistics.
 
-  const prompt = `Create a concise evidence-based executive synthesis from these aggregated feedback statistics. Do not invent facts. Return JSON with summary, positiveThemes (array), negativeThemes (array), emergingIssues (array), recommendations (array). Statistics:
-${JSON.stringify(stats).slice(0, 30000)}`;
+Return one JSON object with these fields:
+{
+  "summary": "A concise overall summary.",
+  "positiveThemes": [],
+  "negativeThemes": [],
+  "emergingIssues": [],
+  "recommendations": []
+}
 
-  const r = await fetch(
-    `${endpoint}?key=${process.env.GEMINI_API_KEY}`,
-    {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json'
-      },
-      body: JSON.stringify({
-        contents: [
-          {
-            parts: [
-              {
-                text: prompt
-              }
-            ]
-          }
-        ],
-        generationConfig: {
-          temperature: 0.2,
-          responseMimeType: 'application/json'
-        }
-      })
-    }
-  );
+All four theme and recommendation fields must be arrays of strings.
+Use only the supplied statistics. Do not invent facts.
+Return valid JSON only.
 
-  if (!r.ok) {
-    const errorText = await r.text();
-    throw new Error(`Gemini API error ${r.status}: ${errorText}`);
-  }
+Statistics:
+${JSON.stringify(stats)}
+`;
 
-  const j = await r.json();
-
-  const text =
-    j.candidates?.[0]?.content?.parts?.[0]?.text || '{}';
-
-  return JSON.parse(
-    text
-      .replace(/^```json/, '')
-      .replace(/```$/, '')
-      .trim()
-  );
+  return callGroq(prompt);
 }
