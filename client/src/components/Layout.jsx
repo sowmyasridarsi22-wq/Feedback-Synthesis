@@ -11,7 +11,7 @@ import {
 } from "lucide-react";
 import { useAuth } from "../context/AuthContext";
 const links = [
-  ["/", "Dashboard", LayoutDashboard],
+  ["/dashboard", "Dashboard", LayoutDashboard],
   ["/import", "Data Import", Upload],
   ["/feedback", "Feedback", MessageSquare],
   ["/topics", "Topics & Issues", Layers3],
