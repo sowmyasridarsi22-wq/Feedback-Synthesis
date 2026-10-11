@@ -959,3 +959,250 @@ main .loading,
 .product-trend-explanation p {
   color: #514568 !important;
 }
+
+/* ---------- Feedback Synthesis landing page ---------- */
+
+html {
+  scroll-behavior: smooth;
+}
+
+.landing-page {
+  isolation: isolate;
+}
+
+.gradient-text {
+  background: linear-gradient(
+    105deg,
+    #6d28d9 0%,
+    #8b5cf6 48%,
+    #b49aff 100%
+  );
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.blob {
+  position: absolute;
+  pointer-events: none;
+  border-radius: 9999px;
+  background: linear-gradient(
+    140deg,
+    rgba(216, 180, 254, 0.68),
+    rgba(196, 181, 253, 0.12)
+  );
+  filter: blur(1px);
+}
+
+.blob-one {
+  width: 260px;
+  height: 260px;
+  top: 100px;
+  left: -180px;
+  animation: float-blob 9s ease-in-out infinite;
+}
+
+.blob-two {
+  width: 70px;
+  height: 70px;
+  top: 150px;
+  right: 4%;
+  opacity: 0.8;
+  animation: float-blob 7s ease-in-out infinite reverse;
+}
+
+.blob-three {
+  width: 120px;
+  height: 120px;
+  bottom: 70px;
+  right: 35%;
+  opacity: 0.45;
+  animation: float-blob 10s ease-in-out infinite;
+}
+
+.dot-pattern {
+  width: 70px;
+  height: 100px;
+  background-image: radial-gradient(#a78bfa 2px, transparent 2px);
+  background-size: 17px 17px;
+  opacity: 0.8;
+}
+
+.hero-copy {
+  animation: fade-up 700ms ease-out both;
+}
+
+.dashboard-wrap {
+  animation: fade-up 850ms 120ms ease-out both;
+}
+
+.dashboard-card {
+  transition:
+    transform 350ms ease,
+    box-shadow 350ms ease;
+}
+
+.dashboard-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 36px 100px rgba(111, 72, 180, 0.22);
+}
+
+.insight-card {
+  border: 1px solid rgba(255, 255, 255, 0.85);
+  transition:
+    transform 250ms ease,
+    box-shadow 250ms ease;
+  animation: fade-up 650ms both;
+  animation-delay: var(--delay, 0ms);
+}
+
+.insight-card:hover {
+  transform: translateX(4px);
+  box-shadow: 0 8px 24px rgba(124, 58, 237, 0.08);
+}
+
+.insight-pink {
+  background: linear-gradient(110deg, #fdf4ff, #fff7fb);
+}
+
+.insight-blue {
+  background: linear-gradient(110deg, #eff6ff, #f5f7ff);
+}
+
+.insight-orange {
+  background: linear-gradient(110deg, #fff7ed, #fffafa);
+}
+
+.insight-icon {
+  display: flex;
+  width: 54px;
+  height: 54px;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: center;
+  border-radius: 9999px;
+}
+
+.icon-pink {
+  color: #ec4899;
+  background: #fce7f3;
+}
+
+.icon-blue {
+  color: #2563eb;
+  background: #dbeafe;
+}
+
+.icon-orange {
+  color: #f59e0b;
+  background: #ffedd5;
+}
+
+.progress-bar {
+  width: 0;
+  animation: grow-bar 1.1s cubic-bezier(0.2, 0.8, 0.2, 1) forwards;
+  animation-delay: calc(var(--delay, 0ms) + 250ms);
+}
+
+.dashboard-caption {
+  animation: fade-up 900ms 350ms both;
+}
+
+.feature-card {
+  animation: fade-up 650ms both;
+}
+
+.feature-card:nth-child(2) {
+  animation-delay: 100ms;
+}
+
+.feature-card:nth-child(3) {
+  animation-delay: 200ms;
+}
+
+.animate-sparkle {
+  animation: sparkle 2.5s ease-in-out infinite;
+}
+
+.primary-button {
+  position: relative;
+  overflow: hidden;
+}
+
+.primary-button::after {
+  position: absolute;
+  top: -50%;
+  left: -70%;
+  width: 45%;
+  height: 200%;
+  content: "";
+  background: rgba(255, 255, 255, 0.18);
+  transform: rotate(20deg);
+  transition: left 550ms ease;
+}
+
+.primary-button:hover::after {
+  left: 140%;
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(18px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes grow-bar {
+  from {
+    width: 0;
+  }
+  to {
+    width: var(--progress);
+  }
+}
+
+@keyframes float-blob {
+  0%, 100% {
+    transform: translate3d(0, 0, 0);
+  }
+  50% {
+    transform: translate3d(0, -15px, 0);
+  }
+}
+
+@keyframes sparkle {
+  0%, 100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.65;
+    transform: scale(1.12) rotate(8deg);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+@media (max-width: 640px) {
+  .insight-icon {
+    width: 44px;
+    height: 44px;
+  }
+
+  .dot-pattern {
+    opacity: 0.35;
+  }
+}
