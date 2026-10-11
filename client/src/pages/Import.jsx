@@ -25,16 +25,21 @@ export default function Import() {
     }
   }
   async function analyze() {
-    setLoading(true);
-    try {
-      await api.post("/analyze", { datasetId: data.dataset._id });
-      nav("/");
-    } catch (e) {
-      setMsg(e.response?.data?.message || "Analysis failed");
-    } finally {
-      setLoading(false);
-    }
+  setLoading(true);
+  setMsg("");
+
+  try {
+    await api.post("/analyze", {
+      datasetId: data.dataset._id,
+    });
+
+    nav("/dashboard", { replace: true });
+  } catch (e) {
+    setMsg(e.response?.data?.message || "Analysis failed");
+  } finally {
+    setLoading(false);
   }
+}
   return (
     <div>
       <h2 className="text-3xl font-bold">Data Import</h2>
